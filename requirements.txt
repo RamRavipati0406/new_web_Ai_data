@@ -1,0 +1,36 @@
+# # requirements.txt
+# # Python dependencies for Engineering Knowledge Graph Project
+
+# # Core libraries
+# wikipedia==1.4.0
+# networkx==3.2.1
+# pandas==2.1.4
+# numpy==1.26.2
+
+# # Visualization
+# streamlit==1.29.0
+# plotly==5.18.0
+# pyvis==0.3.2
+
+# # Utilities
+# requests==2.31.0
+# beautifulsoup4==4.12.2
+
+# requirements.txt
+# Python dependencies for Engineering Knowledge Graph Project
+# Updated for Python 3.13 compatibility on macOS
+
+# Core libraries
+wikipedia==1.4.0
+networkx==3.3
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Visualization
+streamlit>=1.31.0
+plotly>=5.18.0
+pyvis==0.3.2
+
+# Utilities
+requests>=2.31.0
+beautifulsoup4>=4.12.2

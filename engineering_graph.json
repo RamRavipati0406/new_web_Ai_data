@@ -1,0 +1,3856 @@
+{
+  "nodes": [
+    {
+      "id": "Engineering",
+      "depth": 0,
+      "summary": "Engineering is the practice of using natural science, mathematics, and the engineering design process to solve problems within technology, increase efficiency and productivity, and improve systems. Th",
+      "url": "https://en.wikipedia.org/wiki/Engineering",
+      "degree_centrality": 0.05,
+      "in_degree": 3,
+      "out_degree": 7,
+      "pagerank": 0
+    },
+    {
+      "id": "Accreditation Board for Engineering and Technology",
+      "depth": 1,
+      "summary": "ABET (pronounced A-bet), formerly known as the Accreditation Board for Engineering and Technology, Inc., is a non-governmental accreditation organization for post-secondary programs in engineering, en",
+      "url": "https://en.wikipedia.org/wiki/ABET",
+      "degree_centrality": 0.11,
+      "in_degree": 2,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "Acoustical engineering",
+      "depth": 1,
+      "summary": "Acoustical engineering (also known as acoustic engineering) is the branch of engineering dealing with sound and vibration. It includes the application of acoustics, the science of sound and vibration,",
+      "url": "https://en.wikipedia.org/wiki/Acoustical_engineering",
+      "degree_centrality": 0.185,
+      "in_degree": 17,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "Aerospace engineering",
+      "depth": 1,
+      "summary": "Aerospace engineering is the primary field of engineering concerned with the development of aircraft and spacecraft.  It has two major and overlapping branches: aeronautical engineering and astronauti",
+      "url": "https://en.wikipedia.org/wiki/Aerospace_engineering",
+      "degree_centrality": 0.15,
+      "in_degree": 16,
+      "out_degree": 14,
+      "pagerank": 0
+    },
+    {
+      "id": "Agricultural engineering",
+      "depth": 1,
+      "summary": "Agricultural engineering, also known as agricultural and biosystems engineering, is the field of study and application of engineering science and designs principles for agriculture purposes, combining",
+      "url": "https://en.wikipedia.org/wiki/Agricultural_engineering",
+      "degree_centrality": 0.15,
+      "in_degree": 16,
+      "out_degree": 14,
+      "pagerank": 0
+    },
+    {
+      "id": "Aircraft design process",
+      "depth": 1,
+      "summary": "The aircraft design process is a loosely defined method used to balance many competing and demanding requirements to produce an aircraft that is strong, lightweight, economical and can carry an adequa",
+      "url": "https://en.wikipedia.org/wiki/Aircraft_design_process",
+      "degree_centrality": 0.02,
+      "in_degree": 1,
+      "out_degree": 3,
+      "pagerank": 0
+    },
+    {
+      "id": "American Engineers' Council for Professional Development",
+      "depth": 1,
+      "summary": "The American Engineers'  Council for Professional Development or simply the Engineers' Council for Professional Development (ECPD),  established in June 1932, was an engineering professional body dedi",
+      "url": "https://en.wikipedia.org/wiki/American_Engineers%27_Council_for_Professional_Development",
+      "degree_centrality": 0.06,
+      "in_degree": 2,
+      "out_degree": 10,
+      "pagerank": 0
+    },
+    {
+      "id": "Ancient Egyptian technology",
+      "depth": 1,
+      "summary": "Ancient Egyptian technology describes devices and technologies invented or used in ancient Egypt. The Egyptians invented and used many simple machines, such as the ramp and the lever, to aid construct",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Mechanical Engineering",
+      "depth": 0,
+      "summary": "The American Society of Mechanical Engineers (ASME) is an American  professional association that, in its own words, \"promotes the art, science, and practice of multidisciplinary engineering and allie",
+      "url": "https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers",
+      "degree_centrality": 0.03,
+      "in_degree": 0,
+      "out_degree": 6,
+      "pagerank": 0
+    },
+    {
+      "id": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "depth": 1,
+      "summary": "The ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems is a peer-reviewed scientific journal established in 2014 by the American Society of Civil Engineers (ASCE) and the American Societ",
+      "url": "https://en.wikipedia.org/wiki/ASCE-ASME_Journal_of_Risk_and_Uncertainty_in_Engineering_Systems",
+      "degree_centrality": 0.105,
+      "in_degree": 1,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "American Institute of Chemical Engineers",
+      "depth": 1,
+      "summary": "The American Institute of Chemical Engineers (AIChE) is a professional organization for chemical engineers. AIChE was established in 1908 to distinguish chemical engineers as professionals independent",
+      "url": "https://en.wikipedia.org/wiki/American_Institute_of_Chemical_Engineers",
+      "degree_centrality": 0.07,
+      "in_degree": 5,
+      "out_degree": 9,
+      "pagerank": 0
+    },
+    {
+      "id": "American Society of Mechanical Engineers, Inc. v. Hydrolevel Corp.",
+      "depth": 1,
+      "summary": "American Society of Mechanical Engineers v. Hydrolevel Corporation, 456 U.S. 556 (1982), is a United States Supreme Court case where a non-profit association, for the first time, was held liable for t",
+      "url": "https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers,_Inc._v._Hydrolevel_Corp.",
+      "degree_centrality": 0.02,
+      "in_degree": 1,
+      "out_degree": 3,
+      "pagerank": 0
+    },
+    {
+      "id": "American Society of Mechanical Engineers v. Hydrolevel Corp.",
+      "depth": 1,
+      "summary": "American Society of Mechanical Engineers v. Hydrolevel Corporation, 456 U.S. 556 (1982), is a United States Supreme Court case where a non-profit association, for the first time, was held liable for t",
+      "url": "https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers,_Inc._v._Hydrolevel_Corp.",
+      "degree_centrality": 0.02,
+      "in_degree": 1,
+      "out_degree": 3,
+      "pagerank": 0
+    },
+    {
+      "id": "Applied Mechanics Reviews",
+      "depth": 1,
+      "summary": "Applied Mechanics Reviews is a bimonthly peer-reviewed scientific journal established in 1948 by The American Society of Mechanical Engineers.  The editor-in-chief is Harry Dankowicz (University of Il",
+      "url": "https://en.wikipedia.org/wiki/Applied_Mechanics_Reviews",
+      "degree_centrality": 0.02,
+      "in_degree": 1,
+      "out_degree": 3,
+      "pagerank": 0
+    },
+    {
+      "id": "Charles E. Jones (engineer)",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Electrical Engineering",
+      "depth": 0,
+      "summary": "Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems that use electricity, electronics, and electromagnetism. It eme",
+      "url": "https://en.wikipedia.org/wiki/Electrical_engineering",
+      "degree_centrality": 0.1,
+      "in_degree": 0,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "Analog signal processing",
+      "depth": 1,
+      "summary": "Analog signal processing is a type of signal processing conducted on continuous analog signals by some analog means (as opposed to the discrete digital signal processing where the signal processing is",
+      "url": "https://en.wikipedia.org/wiki/Analog_signal_processing",
+      "degree_centrality": 0.06,
+      "in_degree": 3,
+      "out_degree": 9,
+      "pagerank": 0
+    },
+    {
+      "id": "Architectural engineering",
+      "depth": 1,
+      "summary": "Architectural engineering or architecture engineering, also known as building engineering, is a discipline that deals with the engineering and construction of buildings, such as environmental, structu",
+      "url": "https://en.wikipedia.org/wiki/Architectural_engineering",
+      "degree_centrality": 0.13,
+      "in_degree": 15,
+      "out_degree": 11,
+      "pagerank": 0
+    },
+    {
+      "id": "Artificial intelligence engineering",
+      "depth": 1,
+      "summary": "Artificial intelligence engineering (AI engineering) is a technical discipline that focuses on the design, development, and deployment of AI systems. AI engineering involves applying engineering princ",
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_engineering",
+      "degree_centrality": 0.17500000000000002,
+      "in_degree": 15,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "Audio engineer",
+      "depth": 1,
+      "summary": "An audio engineer (also known as a sound engineer or recording engineer) helps to produce a recording or a live performance, balancing and adjusting sound sources using equalization, dynamics processi",
+      "url": "https://en.wikipedia.org/wiki/Audio_engineer",
+      "degree_centrality": 0.13,
+      "in_degree": 15,
+      "out_degree": 11,
+      "pagerank": 0
+    },
+    {
+      "id": "Audio signal processing",
+      "depth": 1,
+      "summary": "Audio signal processing is a subfield of signal processing that is concerned with the electronic manipulation of audio signals. Audio signals are electronic representations of sound waves\u2014longitudinal",
+      "url": "https://en.wikipedia.org/wiki/Audio_signal_processing",
+      "degree_centrality": 0.03,
+      "in_degree": 3,
+      "out_degree": 3,
+      "pagerank": 0
+    },
+    {
+      "id": "Audio system measurements",
+      "depth": 1,
+      "summary": "Audio system measurements are used to quantify audio system performance. These measurements are made for several purposes. Designers take measurements to specify the performance of a piece of equipmen",
+      "url": "https://en.wikipedia.org/wiki/Audio_system_measurements",
+      "degree_centrality": 0.02,
+      "in_degree": 1,
+      "out_degree": 3,
+      "pagerank": 0
+    },
+    {
+      "id": "Automation",
+      "depth": 1,
+      "summary": "Automation describes a wide range of technologies that reduce human intervention in processes, mainly by predetermining decision criteria, subprocess relationships, and related actions, as well as emb",
+      "url": "https://en.wikipedia.org/wiki/Automation",
+      "degree_centrality": 0.06,
+      "in_degree": 4,
+      "out_degree": 8,
+      "pagerank": 0
+    },
+    {
+      "id": "Automation engineering",
+      "depth": 1,
+      "summary": "Automation engineering is a branch of engineering that deals with the development of methods and facilities that replace, in whole or in part, manual labour related to the control and monitoring of sy",
+      "url": "https://en.wikipedia.org/wiki/Automation_engineering",
+      "degree_centrality": 0.135,
+      "in_degree": 16,
+      "out_degree": 11,
+      "pagerank": 0
+    },
+    {
+      "id": "Automotive engineering",
+      "depth": 1,
+      "summary": "Automotive engineering, along with aerospace engineering and naval architecture, is a branch of vehicle engineering, incorporating elements of mechanical, electrical, electronic, software, and safety ",
+      "url": "https://en.wikipedia.org/wiki/Automotive_engineering",
+      "degree_centrality": 0.12,
+      "in_degree": 14,
+      "out_degree": 10,
+      "pagerank": 0
+    },
+    {
+      "id": "Bachelor of Engineering",
+      "depth": 1,
+      "summary": "A Bachelor of Engineering (BEng or BE) or a Bachelor of Science in Engineering (BSE) is an undergraduate academic degree awarded to a college graduate majoring in an engineering discipline at a higher",
+      "url": "https://en.wikipedia.org/wiki/Bachelor_of_Engineering",
+      "degree_centrality": 0.17500000000000002,
+      "in_degree": 15,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "Bachelor of Technology",
+      "depth": 1,
+      "summary": "A Bachelor of Technology (B.Tech.) is a bachelor's degree that is awarded for programs usually related to engineering technology.\n\n",
+      "url": "https://en.wikipedia.org/wiki/Bachelor_of_Technology",
+      "degree_centrality": 0.06,
+      "in_degree": 2,
+      "out_degree": 10,
+      "pagerank": 0
+    },
+    {
+      "id": "Biochemical engineering",
+      "depth": 1,
+      "summary": "Biochemical engineering, also known as bioprocess engineering, is a field of study with roots stemming from chemical engineering and biological engineering. It mainly deals with the design, constructi",
+      "url": "https://en.wikipedia.org/wiki/Biochemical_engineering",
+      "degree_centrality": 0.14,
+      "in_degree": 14,
+      "out_degree": 14,
+      "pagerank": 0
+    },
+    {
+      "id": "Biological engineering",
+      "depth": 1,
+      "summary": "Biological engineering or\nbioengineering is the application of principles of biology and the tools of engineering to create usable, tangible, economically viable products.  Biological engineering empl",
+      "url": "https://en.wikipedia.org/wiki/Biological_engineering",
+      "degree_centrality": 0.17500000000000002,
+      "in_degree": 15,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "Biomaterial",
+      "depth": 1,
+      "summary": "A biomaterial is a substance that has been engineered to interact with biological systems for a medical purpose \u2013 either a therapeutic (treat, augment, repair, or replace a tissue function of the body",
+      "url": "https://en.wikipedia.org/wiki/Biomaterial",
+      "degree_centrality": 0.13,
+      "in_degree": 14,
+      "out_degree": 12,
+      "pagerank": 0
+    },
+    {
+      "id": "Biomechanical engineering",
+      "depth": 1,
+      "summary": "Biomechanical engineering, also considered a subfield of mechanical engineering and biomedical engineering, combines principles of physics (with a focus on mechanics), biology, and engineering. Topics",
+      "url": "https://en.wikipedia.org/wiki/Biomechanical_engineering",
+      "degree_centrality": 0.12,
+      "in_degree": 11,
+      "out_degree": 13,
+      "pagerank": 0
+    },
+    {
+      "id": "Biomedical engineering",
+      "depth": 1,
+      "summary": "Biomedical engineering (BME) or medical engineering is the application of engineering principles and design concepts to medicine and biology for healthcare applications (e.g., diagnostic or therapeuti",
+      "url": "https://en.wikipedia.org/wiki/Biomedical_engineering",
+      "degree_centrality": 0.14,
+      "in_degree": 11,
+      "out_degree": 17,
+      "pagerank": 0
+    },
+    {
+      "id": "Bioresource engineering",
+      "depth": 1,
+      "summary": "Bioresource engineering is an engineering discipline of researching, developing, and utilizing bioproducts.\nIt is similar to biological engineering, except that it is based on biological and/or agricu",
+      "url": "https://en.wikipedia.org/wiki/Bioresource_engineering",
+      "degree_centrality": 0.135,
+      "in_degree": 7,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "Civil Engineering",
+      "depth": 0,
+      "summary": "Civil engineering is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including public works such as roa",
+      "url": "https://en.wikipedia.org/wiki/Civil_engineering",
+      "degree_centrality": 0.105,
+      "in_degree": 1,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "Aerostructure",
+      "depth": 1,
+      "summary": "An aerostructure is a component of an aircraft's airframe. This may include all or part of the fuselage, wings, or flight control surfaces. Companies that specialize in constructing these components a",
+      "url": "https://en.wikipedia.org/wiki/Aerostructure",
+      "degree_centrality": 0.015,
+      "in_degree": 1,
+      "out_degree": 2,
+      "pagerank": 0
+    },
+    {
+      "id": "American Society of Civil Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.025,
+      "in_degree": 5,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Architectural design",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Bachelor of engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Bachelor of technology",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Chemical Engineering",
+      "depth": 0,
+      "summary": "Chemical engineering is an engineering field which deals with the study of the operation and design of chemical plants as well as methods of improving production. Chemical engineers develop economical",
+      "url": "https://en.wikipedia.org/wiki/Chemical_engineering",
+      "degree_centrality": 0.105,
+      "in_degree": 1,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "Biomolecular engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Bioprocess engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biotechnology",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.015,
+      "in_degree": 3,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biotechnology engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Computer Engineering",
+      "depth": 0,
+      "summary": "Computer engineering (CE, CoE, CpE, or CompE) is a branch of engineering specialized in developing computer hardware and software. \n\nIt integrates several fields of electrical engineering, electronics",
+      "url": "https://en.wikipedia.org/wiki/Computer_engineering",
+      "degree_centrality": 0.1,
+      "in_degree": 0,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "Broadcast engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.02,
+      "in_degree": 4,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Building services engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.02,
+      "in_degree": 4,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "CPU design",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Central processing unit",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Ceramic engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.025,
+      "in_degree": 5,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Industrial Engineering",
+      "depth": 0,
+      "summary": "Industrial engineering (IE) is concerned with the design, improvement and installation of integrated systems of people, materials, information, equipment and energy. It draws upon specialized knowledg",
+      "url": "https://en.wikipedia.org/wiki/Industrial_engineering",
+      "degree_centrality": 0.1,
+      "in_degree": 0,
+      "out_degree": 20,
+      "pagerank": 0
+    },
+    {
+      "id": "American Society of Mechanical Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.035,
+      "in_degree": 7,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Chemical engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.03,
+      "in_degree": 6,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Aerospace Engineering",
+      "depth": 0,
+      "summary": "Aerospace engineering is the primary field of engineering concerned with the development of aircraft and spacecraft.  It has two major and overlapping branches: aeronautical engineering and astronauti",
+      "url": "https://en.wikipedia.org/wiki/Aerospace_engineering",
+      "degree_centrality": 0.075,
+      "in_degree": 1,
+      "out_degree": 14,
+      "pagerank": 0
+    },
+    {
+      "id": "Aircraft structures",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biological systems engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.02,
+      "in_degree": 4,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "American Academy of Environmental Engineers and Scientists",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "American Society for Engineering Education",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "American Society of Agricultural and Biological Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "American Society of Heating, Refrigerating and Air-Conditioning Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biomedical Engineering Society",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Construction Management Association of America",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Engineering education in the United States",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Institute of Electrical and Electronics Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Institute of Industrial and Systems Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "International Council on Systems Engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "International Society of Automation",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Licensed professional engineer",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Materials Research Society",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "National Council of Examiners for Engineering and Surveying",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "National Institute of Ceramic Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "National Society of Professional Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Audio Engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Audio Engineering Society",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.015,
+      "in_degree": 3,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Audio engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Audio engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Agricultural biotechnology",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Agricultural technology",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Aircraft flight control system",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "American Institute of Electrical Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "American Institute of Mining, Metallurgical, and Petroleum Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Technology",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Civil engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.015,
+      "in_degree": 3,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Coastal engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Construction engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Earthquake engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Geotechnical engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Industrial engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Manufacturing engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Mechanical engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.015,
+      "in_degree": 3,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Mechanics",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Michael Beer (civil engineer)",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Nuclear engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Ocean engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Resilience (engineering and construction)",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Robotics",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Structural engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Thermodynamics",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Transport engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Water resources engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Chemical engineer",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "History of chemical engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Mechanical engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Process design (chemical engineering)",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Process engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Process safety",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Besser Manufacturing Co. v. United States",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Breakup of the Bell System",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "The American Society of Mechanical Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Digital signal processing",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Electrical engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "LC circuit",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Microwave analog signal processing",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "RC circuit",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "RLC circuit",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Series and parallel circuits",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Signal (electrical engineering)",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Signal processing",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Acoustic engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "American Society of Plumbing Engineers",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Architectural engineer (PE)",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Architectural lighting design",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Architectural technology",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Artificial intelligence systems integration",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Chemical reaction engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Andrew Jackson (recording engineer)",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Amplitude modulation signalling system",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Clipping (signal processing)",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Adaptable robotics",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Agent-assisted automation",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Amazon Robotics",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Asia and South Pacific Design Automation Conference",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Ateliers des Constructions Electronique de Charleroi",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Automated highway system",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Automated highway systems",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Automated storage and retrieval system",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Automation technician",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Control engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Control system",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Factory automation",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Mechatronics engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Process automation",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Processes",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Systems",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Warehouse automation",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Anti-lock braking system",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Association for Standardisation of Automation and Measuring Systems",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Automotive design",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Agricultural Engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Architectural Engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Automotive Engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Bachelor of Applied Technology",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Bachelor of Science in Information Technology",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biological Engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Building engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Canadian Engineering Accreditation Board",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Chartered engineer",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Chartered engineer (UK)",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "British Columbia Institute of Technology",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Computer science and engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Electronic engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Engineer's degree",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Engineering education in India",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Engineering technology",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Bioprocess",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Bioproducts engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biosystems engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biotechnology in pharmaceutical manufacturing",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Downstream (bioprocess)",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Drug delivery systems",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Federal University of Technology \u2013 Paran\u00e1",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Fermentation in food processing",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Food engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Food processing",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Genetically engineered",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "American Institute for Medical and Biological Engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biocompatible materials",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biomechanics",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Alternative natural materials",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Atomic structure",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Bio-based material",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biological system",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biomaterials (journal)",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biotic material",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Building insulation material",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Building material",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Certified reference materials",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Combustible material",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Composite material",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Bioengineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.01,
+      "in_degree": 2,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biorobotics",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Computational mechanics",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Continuum mechanics",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Forensic biomechanics",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Sports engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Tissue engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Bachelor of Science in Biomedical Engineering",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biocompatible material",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Biomaterials",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Design",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    },
+    {
+      "id": "Spirit AeroSystems",
+      "depth": 0,
+      "summary": "",
+      "url": "",
+      "degree_centrality": 0.005,
+      "in_degree": 1,
+      "out_degree": 0,
+      "pagerank": 0
+    }
+  ],
+  "edges": [
+    {
+      "source": "Engineering",
+      "target": "Accreditation Board for Engineering and Technology"
+    },
+    {
+      "source": "Engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Engineering",
+      "target": "Aircraft design process"
+    },
+    {
+      "source": "Engineering",
+      "target": "American Engineers' Council for Professional Development"
+    },
+    {
+      "source": "Engineering",
+      "target": "Ancient Egyptian technology"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "American Academy of Environmental Engineers and Scientists"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "American Engineers' Council for Professional Development"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "American Institute of Chemical Engineers"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "American Society for Engineering Education"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "American Society of Agricultural and Biological Engineers"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "American Society of Civil Engineers"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "American Society of Heating, Refrigerating and Air-Conditioning Engineers"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "American Society of Mechanical Engineers"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "Biomedical Engineering Society"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "Construction Management Association of America"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "Engineering education in the United States"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "Institute of Electrical and Electronics Engineers"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "Institute of Industrial and Systems Engineers"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "International Council on Systems Engineering"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "International Society of Automation"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "Licensed professional engineer"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "Materials Research Society"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "National Council of Examiners for Engineering and Surveying"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "National Institute of Ceramic Engineers"
+    },
+    {
+      "source": "Accreditation Board for Engineering and Technology",
+      "target": "National Society of Professional Engineers"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Analog signal processing"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Audio Engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Audio Engineering Society"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Audio engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Audio engineers"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Audio signal processing"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Biomechanical engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Biomedical engineering"
+    },
+    {
+      "source": "Acoustical engineering",
+      "target": "Bioresource engineering"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Aircraft structures"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Biological systems engineering"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Aerospace engineering",
+      "target": "Biomechanical engineering"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Agricultural biotechnology"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Agricultural technology"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "American Society of Agricultural and Biological Engineers"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Agricultural engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Aircraft design process",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Aircraft design process",
+      "target": "Aircraft flight control system"
+    },
+    {
+      "source": "Aircraft design process",
+      "target": "Automation"
+    },
+    {
+      "source": "American Engineers' Council for Professional Development",
+      "target": "American Institute of Chemical Engineers"
+    },
+    {
+      "source": "American Engineers' Council for Professional Development",
+      "target": "American Institute of Electrical Engineers"
+    },
+    {
+      "source": "American Engineers' Council for Professional Development",
+      "target": "American Institute of Mining, Metallurgical, and Petroleum Engineers"
+    },
+    {
+      "source": "American Engineers' Council for Professional Development",
+      "target": "American Society for Engineering Education"
+    },
+    {
+      "source": "American Engineers' Council for Professional Development",
+      "target": "American Society of Civil Engineers"
+    },
+    {
+      "source": "American Engineers' Council for Professional Development",
+      "target": "American Society of Mechanical Engineers"
+    },
+    {
+      "source": "American Engineers' Council for Professional Development",
+      "target": "Engineering"
+    },
+    {
+      "source": "American Engineers' Council for Professional Development",
+      "target": "Institute of Electrical and Electronics Engineers"
+    },
+    {
+      "source": "American Engineers' Council for Professional Development",
+      "target": "National Council of Examiners for Engineering and Surveying"
+    },
+    {
+      "source": "American Engineers' Council for Professional Development",
+      "target": "Technology"
+    },
+    {
+      "source": "Mechanical Engineering",
+      "target": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems"
+    },
+    {
+      "source": "Mechanical Engineering",
+      "target": "American Institute of Chemical Engineers"
+    },
+    {
+      "source": "Mechanical Engineering",
+      "target": "American Society of Mechanical Engineers, Inc. v. Hydrolevel Corp."
+    },
+    {
+      "source": "Mechanical Engineering",
+      "target": "American Society of Mechanical Engineers v. Hydrolevel Corp."
+    },
+    {
+      "source": "Mechanical Engineering",
+      "target": "Applied Mechanics Reviews"
+    },
+    {
+      "source": "Mechanical Engineering",
+      "target": "Charles E. Jones (engineer)"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "American Society of Civil Engineers"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "American Society of Mechanical Engineers"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Civil engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Coastal engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Construction engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Earthquake engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Geotechnical engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Industrial engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Manufacturing engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Mechanical engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Mechanics"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Michael Beer (civil engineer)"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Nuclear engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Ocean engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Resilience (engineering and construction)"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Robotics"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Structural engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Thermodynamics"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Transport engineering"
+    },
+    {
+      "source": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems",
+      "target": "Water resources engineering"
+    },
+    {
+      "source": "American Institute of Chemical Engineers",
+      "target": "American Society of Mechanical Engineers"
+    },
+    {
+      "source": "American Institute of Chemical Engineers",
+      "target": "Biotechnology"
+    },
+    {
+      "source": "American Institute of Chemical Engineers",
+      "target": "Chemical engineer"
+    },
+    {
+      "source": "American Institute of Chemical Engineers",
+      "target": "Chemical engineering"
+    },
+    {
+      "source": "American Institute of Chemical Engineers",
+      "target": "History of chemical engineering"
+    },
+    {
+      "source": "American Institute of Chemical Engineers",
+      "target": "Mechanical engineers"
+    },
+    {
+      "source": "American Institute of Chemical Engineers",
+      "target": "Process design (chemical engineering)"
+    },
+    {
+      "source": "American Institute of Chemical Engineers",
+      "target": "Process engineering"
+    },
+    {
+      "source": "American Institute of Chemical Engineers",
+      "target": "Process safety"
+    },
+    {
+      "source": "American Society of Mechanical Engineers, Inc. v. Hydrolevel Corp.",
+      "target": "American Society of Mechanical Engineers"
+    },
+    {
+      "source": "American Society of Mechanical Engineers, Inc. v. Hydrolevel Corp.",
+      "target": "Besser Manufacturing Co. v. United States"
+    },
+    {
+      "source": "American Society of Mechanical Engineers, Inc. v. Hydrolevel Corp.",
+      "target": "Breakup of the Bell System"
+    },
+    {
+      "source": "American Society of Mechanical Engineers v. Hydrolevel Corp.",
+      "target": "American Society of Mechanical Engineers"
+    },
+    {
+      "source": "American Society of Mechanical Engineers v. Hydrolevel Corp.",
+      "target": "Besser Manufacturing Co. v. United States"
+    },
+    {
+      "source": "American Society of Mechanical Engineers v. Hydrolevel Corp.",
+      "target": "Breakup of the Bell System"
+    },
+    {
+      "source": "Applied Mechanics Reviews",
+      "target": "Engineering"
+    },
+    {
+      "source": "Applied Mechanics Reviews",
+      "target": "Mechanical engineering"
+    },
+    {
+      "source": "Applied Mechanics Reviews",
+      "target": "The American Society of Mechanical Engineers"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Analog signal processing"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Audio signal processing"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Audio system measurements"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Automation"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Bachelor of Technology"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Biomechanical engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Biomedical engineering"
+    },
+    {
+      "source": "Electrical Engineering",
+      "target": "Bioresource engineering"
+    },
+    {
+      "source": "Analog signal processing",
+      "target": "Digital signal processing"
+    },
+    {
+      "source": "Analog signal processing",
+      "target": "Electrical engineering"
+    },
+    {
+      "source": "Analog signal processing",
+      "target": "LC circuit"
+    },
+    {
+      "source": "Analog signal processing",
+      "target": "Microwave analog signal processing"
+    },
+    {
+      "source": "Analog signal processing",
+      "target": "RC circuit"
+    },
+    {
+      "source": "Analog signal processing",
+      "target": "RLC circuit"
+    },
+    {
+      "source": "Analog signal processing",
+      "target": "Series and parallel circuits"
+    },
+    {
+      "source": "Analog signal processing",
+      "target": "Signal (electrical engineering)"
+    },
+    {
+      "source": "Analog signal processing",
+      "target": "Signal processing"
+    },
+    {
+      "source": "Architectural engineering",
+      "target": "Acoustic engineering"
+    },
+    {
+      "source": "Architectural engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Architectural engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Architectural engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Architectural engineering",
+      "target": "American Society of Civil Engineers"
+    },
+    {
+      "source": "Architectural engineering",
+      "target": "American Society of Plumbing Engineers"
+    },
+    {
+      "source": "Architectural engineering",
+      "target": "Architectural design"
+    },
+    {
+      "source": "Architectural engineering",
+      "target": "Architectural engineer (PE)"
+    },
+    {
+      "source": "Architectural engineering",
+      "target": "Architectural lighting design"
+    },
+    {
+      "source": "Architectural engineering",
+      "target": "Architectural technology"
+    },
+    {
+      "source": "Architectural engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Artificial intelligence systems integration"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Biomechanical engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Biomedical engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Bioresource engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Broadcast engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Building services engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Ceramic engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Chemical engineering"
+    },
+    {
+      "source": "Artificial intelligence engineering",
+      "target": "Chemical reaction engineering"
+    },
+    {
+      "source": "Audio engineer",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Audio engineer",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Audio engineer",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Audio engineer",
+      "target": "Andrew Jackson (recording engineer)"
+    },
+    {
+      "source": "Audio engineer",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Audio engineer",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Audio engineer",
+      "target": "Audio Engineering Society"
+    },
+    {
+      "source": "Audio engineer",
+      "target": "Audio signal processing"
+    },
+    {
+      "source": "Audio engineer",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Audio engineer",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Audio engineer",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Audio signal processing",
+      "target": "Amplitude modulation signalling system"
+    },
+    {
+      "source": "Audio signal processing",
+      "target": "Analog signal processing"
+    },
+    {
+      "source": "Audio signal processing",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Audio system measurements",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Audio system measurements",
+      "target": "Audio Engineering Society"
+    },
+    {
+      "source": "Audio system measurements",
+      "target": "Clipping (signal processing)"
+    },
+    {
+      "source": "Automation",
+      "target": "Adaptable robotics"
+    },
+    {
+      "source": "Automation",
+      "target": "Agent-assisted automation"
+    },
+    {
+      "source": "Automation",
+      "target": "Amazon Robotics"
+    },
+    {
+      "source": "Automation",
+      "target": "Asia and South Pacific Design Automation Conference"
+    },
+    {
+      "source": "Automation",
+      "target": "Ateliers des Constructions Electronique de Charleroi"
+    },
+    {
+      "source": "Automation",
+      "target": "Automated highway system"
+    },
+    {
+      "source": "Automation",
+      "target": "Automated highway systems"
+    },
+    {
+      "source": "Automation",
+      "target": "Automated storage and retrieval system"
+    },
+    {
+      "source": "Automation engineering",
+      "target": "Automation"
+    },
+    {
+      "source": "Automation engineering",
+      "target": "Automation technician"
+    },
+    {
+      "source": "Automation engineering",
+      "target": "Control engineering"
+    },
+    {
+      "source": "Automation engineering",
+      "target": "Control system"
+    },
+    {
+      "source": "Automation engineering",
+      "target": "Engineering"
+    },
+    {
+      "source": "Automation engineering",
+      "target": "Factory automation"
+    },
+    {
+      "source": "Automation engineering",
+      "target": "Mechatronics engineering"
+    },
+    {
+      "source": "Automation engineering",
+      "target": "Process automation"
+    },
+    {
+      "source": "Automation engineering",
+      "target": "Processes"
+    },
+    {
+      "source": "Automation engineering",
+      "target": "Systems"
+    },
+    {
+      "source": "Automation engineering",
+      "target": "Warehouse automation"
+    },
+    {
+      "source": "Automotive engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Automotive engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Automotive engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Automotive engineering",
+      "target": "Anti-lock braking system"
+    },
+    {
+      "source": "Automotive engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Automotive engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Automotive engineering",
+      "target": "Association for Standardisation of Automation and Measuring Systems"
+    },
+    {
+      "source": "Automotive engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Automotive engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Automotive engineering",
+      "target": "Automotive design"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Aerospace Engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Agricultural Engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Architectural Engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Automation"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Automotive Engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Bachelor of Applied Technology"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Bachelor of Science in Information Technology"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Bachelor of Technology"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Biological Engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Biomedical engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Biomolecular engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Building engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Canadian Engineering Accreditation Board"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Ceramic engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Chartered engineer"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Chartered engineer (UK)"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Chemical Engineering"
+    },
+    {
+      "source": "Bachelor of Engineering",
+      "target": "Civil Engineering"
+    },
+    {
+      "source": "Bachelor of Technology",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Bachelor of Technology",
+      "target": "British Columbia Institute of Technology"
+    },
+    {
+      "source": "Bachelor of Technology",
+      "target": "Chemical engineering"
+    },
+    {
+      "source": "Bachelor of Technology",
+      "target": "Civil engineering"
+    },
+    {
+      "source": "Bachelor of Technology",
+      "target": "Computer science and engineering"
+    },
+    {
+      "source": "Bachelor of Technology",
+      "target": "Electrical engineering"
+    },
+    {
+      "source": "Bachelor of Technology",
+      "target": "Electronic engineering"
+    },
+    {
+      "source": "Bachelor of Technology",
+      "target": "Engineer's degree"
+    },
+    {
+      "source": "Bachelor of Technology",
+      "target": "Engineering education in India"
+    },
+    {
+      "source": "Bachelor of Technology",
+      "target": "Engineering technology"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Bioprocess"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Bioproducts engineering"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Biosystems engineering"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Biotechnology"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Biotechnology in pharmaceutical manufacturing"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Chemical engineering"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Downstream (bioprocess)"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Drug delivery systems"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Federal University of Technology \u2013 Paran\u00e1"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Fermentation in food processing"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Food engineering"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Food processing"
+    },
+    {
+      "source": "Biochemical engineering",
+      "target": "Genetically engineered"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Accreditation Board for Engineering and Technology"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "American Institute for Medical and Biological Engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "American Institute of Chemical Engineers"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Bachelor of engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Biocompatible materials"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Biological systems engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Biomechanical engineering"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Biomechanics"
+    },
+    {
+      "source": "Biological engineering",
+      "target": "Biomedical engineering"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Alternative natural materials"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Atomic structure"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Bio-based material"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Biological system"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Biomaterials (journal)"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Biotic material"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Building insulation material"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Building material"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Certified reference materials"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Combustible material"
+    },
+    {
+      "source": "Biomaterial",
+      "target": "Composite material"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Bioengineering"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Biomechanics"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Biomedical engineering"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Biorobotics"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Computational mechanics"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Continuum mechanics"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Forensic biomechanics"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Mechanical engineering"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Mechanics"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Sports engineering"
+    },
+    {
+      "source": "Biomechanical engineering",
+      "target": "Tissue engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Bachelor of Science in Biomedical Engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Biocompatible material"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Bioengineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Biological systems engineering"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Biomedical engineering",
+      "target": "Biomaterials"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Biomechanical engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Biomedical engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Broadcast engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Building services engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Ceramic engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Chemical engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Chemical reaction engineering"
+    },
+    {
+      "source": "Bioresource engineering",
+      "target": "Civil engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Aerostructure"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "American Society of Civil Engineers"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Architectural design"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Bachelor of engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Bachelor of technology"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Biomechanical engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Biomedical engineering"
+    },
+    {
+      "source": "Civil Engineering",
+      "target": "Bioresource engineering"
+    },
+    {
+      "source": "Aerostructure",
+      "target": "Design"
+    },
+    {
+      "source": "Aerostructure",
+      "target": "Spirit AeroSystems"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "American Institute of Chemical Engineers"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Biomechanical engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Biomedical engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Biomolecular engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Bioprocess engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Bioresource engineering"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Biotechnology"
+    },
+    {
+      "source": "Chemical Engineering",
+      "target": "Biotechnology engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Biomechanical engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Biomedical engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Bioresource engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Broadcast engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Building services engineering"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "CPU design"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Central processing unit"
+    },
+    {
+      "source": "Computer Engineering",
+      "target": "Ceramic engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Aerospace engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "American Society of Mechanical Engineers"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Biomechanical engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Biomedical engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Bioresource engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Broadcast engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Building services engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Ceramic engineering"
+    },
+    {
+      "source": "Industrial Engineering",
+      "target": "Chemical engineering"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Acoustical engineering"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Agricultural engineering"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Aircraft structures"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Architectural engineering"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Artificial intelligence engineering"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Audio engineer"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Automation engineering"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Automotive engineering"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Bachelor of Engineering"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Biochemical engineering"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Biological engineering"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Biological systems engineering"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Biomaterial"
+    },
+    {
+      "source": "Aerospace Engineering",
+      "target": "Biomechanical engineering"
+    }
+  ]
+}
