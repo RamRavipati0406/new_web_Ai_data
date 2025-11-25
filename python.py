@@ -1,6 +1,7 @@
 # wikipedia_scraper.py
-# Engineering Knowledge Graph - Data Acquisition Module
+# Engineering Knowledge Graph - Data Acquisition Module (Enhanced Version)
 # This script scrapes Wikipedia pages related to engineering topics and builds a knowledge graph
+# with detailed node metadata
 
 import wikipedia
 import networkx as nx
@@ -13,6 +14,7 @@ import re
 class EngineeringKnowledgeGraphScraper:
     """
     Scrapes Wikipedia for engineering topics and builds a knowledge graph.
+    Enhanced version with detailed node metadata.
     """
     
     def __init__(self, seed_topics=None, max_depth=2, max_nodes=1000):
@@ -25,6 +27,7 @@ class EngineeringKnowledgeGraphScraper:
             max_nodes: Maximum number of nodes to collect (prevents explosion)
         """
         self.seed_topics = seed_topics or [
+            # Traditional Engineering Disciplines
             "Engineering",
             "Mechanical Engineering",
             "Electrical Engineering",
@@ -32,7 +35,32 @@ class EngineeringKnowledgeGraphScraper:
             "Chemical Engineering",
             "Computer Engineering",
             "Industrial Engineering",
-            "Aerospace Engineering"
+            "Aerospace Engineering",
+            "Biomedical Engineering",
+            "Environmental Engineering",
+            
+            # Systems and Modern Engineering
+            "Systems Engineering",
+            "Systems Theory",
+            "Control Theory",
+            "Robotics",
+            "Automation",
+            "Cybernetics",
+            
+            # AI and Machine Learning
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Neural Network",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Reinforcement Learning",
+            
+            # Interdisciplinary Topics
+            "Data Science",
+            "Computational Engineering",
+            "Software Engineering",
+            "Information Technology"
         ]
         self.max_depth = max_depth
         self.max_nodes = max_nodes
@@ -41,7 +69,9 @@ class EngineeringKnowledgeGraphScraper:
         self.engineering_keywords = [
             'engineering', 'engineer', 'technology', 'design', 'system',
             'construction', 'manufacturing', 'circuit', 'structure', 'material',
-            'process', 'mechanics', 'thermodynamics', 'automation', 'robotics'
+            'process', 'mechanics', 'thermodynamics', 'automation', 'robotics',
+            'artificial', 'intelligence', 'machine learning', 'algorithm',
+            'neural', 'data', 'computer', 'software', 'control', 'optimization'
         ]
         
     def is_engineering_related(self, title, summary):
@@ -51,30 +81,45 @@ class EngineeringKnowledgeGraphScraper:
         text = (title + " " + summary).lower()
         return any(keyword in text for keyword in self.engineering_keywords)
     
-    def get_page_links(self, page_title):
+    def get_page_details(self, page_title):
         """
-        Get links from a Wikipedia page.
+        Get comprehensive details from a Wikipedia page.
+        Enhanced version with rich metadata.
         """
         try:
             page = wikipedia.page(page_title, auto_suggest=False)
-            links = page.links[:50]  # Limit to first 50 links
-            summary = page.summary[:500]
-            url = page.url
-            return links, summary, url
+            
+            # Extract detailed information
+            details = {
+                'links': page.links[:50],  # Limit to first 50 links
+                'summary': page.summary,  # FULL summary (not truncated)
+                'url': page.url,
+                'content': page.content[:2000],  # First 2000 chars of full content
+                'categories': page.categories[:10] if hasattr(page, 'categories') else [],
+                'sections': page.sections[:15] if hasattr(page, 'sections') else [],
+                'images': page.images[:3] if hasattr(page, 'images') else [],
+                'references': page.references[:5] if hasattr(page, 'references') else [],
+                'content_length': len(page.content),
+                'word_count': len(page.content.split())
+            }
+            
+            return details
+            
         except (wikipedia.exceptions.DisambiguationError, 
                 wikipedia.exceptions.PageError) as e:
             print(f"Error fetching {page_title}: {str(e)[:100]}")
-            return [], "", ""
+            return None
         except Exception as e:
             print(f"Unexpected error for {page_title}: {str(e)[:100]}")
-            return [], "", ""
+            return None
     
     def scrape(self):
         """
-        Perform breadth-first scraping of Wikipedia.
+        Perform breadth-first scraping of Wikipedia with detailed metadata.
         """
         print(f"Starting scrape with {len(self.seed_topics)} seed topics...")
         print(f"Max depth: {self.max_depth}, Max nodes: {self.max_nodes}")
+        print("Extracting detailed metadata for each node...")
         
         # Queue stores (page_title, depth)
         queue = deque([(topic, 0) for topic in self.seed_topics])
@@ -88,24 +133,32 @@ class EngineeringKnowledgeGraphScraper:
             
             print(f"Processing: {current_title} (depth {current_depth}, nodes: {len(self.graph.nodes)})")
             
-            # Get page links
-            links, summary, url = self.get_page_links(current_title)
+            # Get comprehensive page details
+            details = self.get_page_details(current_title)
             
-            if not links:
+            if not details:
                 continue
             
-            # Add current node
+            # Add current node with RICH metadata
             self.graph.add_node(
                 current_title,
                 depth=current_depth,
-                summary=summary[:200],
-                url=url
+                summary=details['summary'],  # Full summary
+                short_summary=details['summary'][:300] + "...",  # Short version for display
+                url=details['url'],
+                content_preview=details['content'][:500],  # Content preview
+                categories=details['categories'],
+                sections=details['sections'],
+                images=details['images'],
+                references=details['references'][:5],
+                content_length=details['content_length'],
+                word_count=details['word_count']
             )
             self.visited.add(current_title)
             
             # Process links
             engineering_links = []
-            for link in links:
+            for link in details['links']:
                 # Skip if we've hit node limit
                 if len(self.graph.nodes) >= self.max_nodes:
                     break
@@ -162,15 +215,26 @@ class EngineeringKnowledgeGraphScraper:
         try:
             between_cent = nx.betweenness_centrality(G_undirected, k=min(100, len(G_undirected.nodes)))
             metrics['betweenness_centrality'] = between_cent
-        except:
+            print(f"  Betweenness centrality calculated for {len(between_cent)} nodes")
+        except Exception as e:
+            print(f"  Warning: Betweenness calculation failed: {e}")
             metrics['betweenness_centrality'] = {}
+
         
         # PageRank (importance based on link structure)
+        # Use alpha=0.85 (standard damping factor) and higher iterations
         try:
-            pagerank = nx.pagerank(self.graph, max_iter=100)
+            pagerank = nx.pagerank(self.graph, alpha=0.85, max_iter=200, tol=1e-06)
             metrics['pagerank'] = pagerank
-        except:
-            metrics['pagerank'] = {}
+            print(f"  PageRank calculated for {len(pagerank)} nodes")
+        except Exception as e:
+            print(f"  Warning: PageRank calculation failed: {e}")
+            # Fallback: use in-degree as proxy for importance
+            pagerank = {node: in_degree.get(node, 0) / max(in_degree.values(), default=1) 
+                       for node in self.graph.nodes()}
+            metrics['pagerank'] = pagerank
+            print(f"  Using in-degree as PageRank fallback")
+
         
         # Add metrics as node attributes
         for node in self.graph.nodes():
@@ -193,7 +257,7 @@ class EngineeringKnowledgeGraphScraper:
     
     def save_graph_json(self, filename='engineering_graph.json'):
         """
-        Save graph as JSON for portability.
+        Save graph as JSON for portability (with detailed metadata).
         """
         data = {
             'nodes': [
@@ -201,7 +265,15 @@ class EngineeringKnowledgeGraphScraper:
                     'id': node,
                     'depth': self.graph.nodes[node].get('depth', 0),
                     'summary': self.graph.nodes[node].get('summary', ''),
+                    'short_summary': self.graph.nodes[node].get('short_summary', ''),
                     'url': self.graph.nodes[node].get('url', ''),
+                    'content_preview': self.graph.nodes[node].get('content_preview', ''),
+                    'categories': self.graph.nodes[node].get('categories', []),
+                    'sections': self.graph.nodes[node].get('sections', []),
+                    'images': self.graph.nodes[node].get('images', []),
+                    'references': self.graph.nodes[node].get('references', []),
+                    'content_length': self.graph.nodes[node].get('content_length', 0),
+                    'word_count': self.graph.nodes[node].get('word_count', 0),
                     'degree_centrality': self.graph.nodes[node].get('degree_centrality', 0),
                     'in_degree': self.graph.nodes[node].get('in_degree', 0),
                     'out_degree': self.graph.nodes[node].get('out_degree', 0),
@@ -225,12 +297,14 @@ def main():
     Main execution function.
     """
     print("=" * 60)
-    print("ENGINEERING KNOWLEDGE GRAPH BUILDER")
+    print("ENGINEERING KNOWLEDGE GRAPH BUILDER (Enhanced)")
+    print("Including: Traditional Engineering + Systems + AI/ML")
+    print("With detailed metadata for each topic")
     print("=" * 60)
     
     # Initialize scraper
     scraper = EngineeringKnowledgeGraphScraper(
-        max_depth=2,
+        max_depth=3,
         max_nodes=1000
     )
     
@@ -246,14 +320,16 @@ def main():
     print("=" * 60)
     top_nodes = sorted(metrics['in_degree'].items(), key=lambda x: x[1], reverse=True)[:10]
     for i, (node, score) in enumerate(top_nodes, 1):
-        print(f"{i}. {node}: {score} incoming links")
+        word_count = graph.nodes[node].get('word_count', 0)
+        print(f"{i}. {node}: {score} incoming links | {word_count:,} words")
     
     print("\n" + "=" * 60)
     print("TOP 10 MOST IMPORTANT TOPICS (by PageRank):")
     print("=" * 60)
     top_pagerank = sorted(metrics['pagerank'].items(), key=lambda x: x[1], reverse=True)[:10]
     for i, (node, score) in enumerate(top_pagerank, 1):
-        print(f"{i}. {node}: {score:.6f}")
+        categories = len(graph.nodes[node].get('categories', []))
+        print(f"{i}. {node}: {score:.6f} | {categories} categories")
     
     # Save graph
     scraper.save_graph('engineering_graph.gpickle')
@@ -262,6 +338,8 @@ def main():
     print("\n" + "=" * 60)
     print("SCRAPING COMPLETE!")
     print("=" * 60)
+    print(f"Enhanced metadata includes: full summaries, categories,")
+    print(f"sections, images, references, word counts, and more!")
     print(f"Next step: Run 'streamlit run dashboard.py' to visualize")
 
 
