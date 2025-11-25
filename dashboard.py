@@ -57,7 +57,7 @@ def get_graph_statistics(G):
     }
     return stats
 
-def create_pyvis_network(G, node_filter=None, max_nodes=1000):
+def create_pyvis_network(G, node_filter=None, max_nodes=100):
     """Create an interactive network visualization using PyVis."""
     
     # Filter nodes if specified
@@ -98,7 +98,7 @@ def create_pyvis_network(G, node_filter=None, max_nodes=1000):
         elif depth == 1:
             color = '#4ecdc4'  # Teal for first level
         else:
-            color = "#f004f0"  # Purple for deeper levels
+            color = "#d208fa"  # Purple for deeper levels
         
         # Tooltip
         title = f"{node}<br>Connections: {degree}<br>PageRank: {pagerank:.4f}"
@@ -192,7 +192,7 @@ def plot_depth_distribution(G):
 
 def main():
     # Header
-    st.markdown('<h1 class="main-header"> Engineering Knowledge Graph Explorer</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">🔧 Engineering Knowledge Graph Explorer</h1>', unsafe_allow_html=True)
     st.markdown("**Interactive visualization of engineering concepts from Wikipedia**")
     st.markdown("---")
     
@@ -201,12 +201,12 @@ def main():
         G = load_graph()
     
     # Sidebar
-    st.sidebar.header(" Controls")
+    st.sidebar.header("🎛️ Controls")
     
     # Navigation
     page = st.sidebar.radio(
         "Navigation",
-        ["-> Overview", "-> Network Graph", "-> Analytics", "-> Topic Explorer"]
+        ["📊 Overview", "🕸️ Network Graph", "📈 Analytics", "🔍 Topic Explorer"]
     )
     
     st.sidebar.markdown("---")
@@ -218,11 +218,11 @@ def main():
     )
     
     # Page routing
-    if page == " Overview":
+    if page == "📊 Overview":
         show_overview(G)
-    elif page == " Network Graph":
+    elif page == "🕸️ Network Graph":
         show_network_graph(G)
-    elif page == " Analytics":
+    elif page == "📈 Analytics":
         show_analytics(G)
     else:
         show_topic_explorer(G)
@@ -270,10 +270,10 @@ def show_network_graph(G):
     
     st.markdown("""
     **How to use:**
-    - Search for specific topics using the filter below
-    -  Click and drag nodes to explore connections
-    -  Hover over nodes to see details
-    -  Colors indicate depth: Red (seed) → Teal (level 1) → Purple (level 2+)
+    - 🔍 Search for specific topics using the filter below
+    - 🖱️ Click and drag nodes to explore connections
+    - 🔎 Hover over nodes to see details
+    - 🎨 Colors indicate depth: Red (seed) → Teal (level 1) → Purple (level 2+)
     """)
     
     # Controls
@@ -324,7 +324,7 @@ def show_analytics(G):
     
     # Explanation
     st.markdown("---")
-    st.subheader("Understanding the Metrics")
+    st.subheader("📖 Understanding the Metrics")
     
     explanations = {
         "Degree Centrality": "Measures how connected a topic is. Higher values indicate topics that connect many concepts.",
@@ -338,7 +338,7 @@ def show_analytics(G):
     
     # Additional statistics
     st.markdown("---")
-    st.subheader("Detailed Statistics")
+    st.subheader("📊 Detailed Statistics")
     
     # Create DataFrame with all metrics
     data = []
@@ -360,7 +360,7 @@ def show_analytics(G):
     # Download button
     csv = df.to_csv(index=False)
     st.download_button(
-        label=" Download Full Dataset (CSV)",
+        label="📥 Download Full Dataset (CSV)",
         data=csv,
         file_name="engineering_knowledge_graph_metrics.csv",
         mime="text/csv"
@@ -372,7 +372,7 @@ def show_topic_explorer(G):
     
     # Search box
     search_query = st.text_input(
-        " Search for a topic",
+        "🔍 Search for a topic",
         placeholder="e.g., Thermodynamics, Robotics, Structural Engineering"
     )
     
@@ -392,14 +392,14 @@ def show_topic_explorer(G):
                 col1, col2 = st.columns([2, 1])
                 
                 with col1:
-                    st.subheader(f" {selected_topic}")
+                    st.subheader(f"📄 {selected_topic}")
                     
                     summary = G.nodes[selected_topic].get('summary', 'No summary available')
                     st.write(summary)
                     
                     url = G.nodes[selected_topic].get('url', '')
                     if url:
-                        st.markdown(f"[ Read full article on Wikipedia]({url})")
+                        st.markdown(f"[📖 Read full article on Wikipedia]({url})")
                 
                 with col2:
                     st.metric("Total Connections", G.degree(selected_topic))
@@ -413,7 +413,7 @@ def show_topic_explorer(G):
                 col3, col4 = st.columns(2)
                 
                 with col3:
-                    st.subheader(" Topics that link HERE")
+                    st.subheader("🔗 Topics that link HERE")
                     predecessors = list(G.predecessors(selected_topic))
                     if predecessors:
                         for pred in predecessors[:10]:
@@ -424,7 +424,7 @@ def show_topic_explorer(G):
                         st.write("No incoming links")
                 
                 with col4:
-                    st.subheader(" Topics this links TO")
+                    st.subheader("🔗 Topics this links TO")
                     successors = list(G.successors(selected_topic))
                     if successors:
                         for succ in successors[:10]:
@@ -436,11 +436,11 @@ def show_topic_explorer(G):
         else:
             st.warning(f"No topics found matching '{search_query}'")
     else:
-        st.info(" Enter a search term above to explore specific topics")
+        st.info("👆 Enter a search term above to explore specific topics")
         
         # Show random sample
         st.markdown("---")
-        st.subheader(" Browse All Topics")
+        st.subheader("📚 Browse All Topics")
         
         all_topics = sorted(G.nodes())
         st.write(f"Total topics in graph: {len(all_topics)}")
