@@ -27,7 +27,6 @@ class EngineeringKnowledgeGraphScraper:
             max_nodes: Maximum number of nodes to collect (prevents explosion)
         """
         self.seed_topics = seed_topics or [
-            # Traditional Engineering Disciplines
             "Engineering",
             "Mechanical Engineering",
             "Electrical Engineering",
@@ -38,16 +37,12 @@ class EngineeringKnowledgeGraphScraper:
             "Aerospace Engineering",
             "Biomedical Engineering",
             "Environmental Engineering",
-            
-            # Systems and Modern Engineering
             "Systems Engineering",
             "Systems Theory",
             "Control Theory",
             "Robotics",
             "Automation",
             "Cybernetics",
-            
-            # AI and Machine Learning
             "Artificial Intelligence",
             "Machine Learning",
             "Deep Learning",
@@ -55,8 +50,6 @@ class EngineeringKnowledgeGraphScraper:
             "Natural Language Processing",
             "Computer Vision",
             "Reinforcement Learning",
-            
-            # Interdisciplinary Topics
             "Data Science",
             "Computational Engineering",
             "Software Engineering",

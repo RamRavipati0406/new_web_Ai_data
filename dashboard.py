@@ -149,10 +149,19 @@ def plot_top_topics_bar(G, metric='in_degree', top_n=15):
         color_continuous_scale='Blues'
     )
     
+    # Make figure height dynamic so long lists are visible; reserve ~28px per bar
+    per_bar = 28
+    base_height = 160  # header + margins
+    height = min(1400, max(400, base_height + per_bar * top_n))
+
+    # Increase left margin to avoid label clipping; adjust by number of characters if needed
+    margin_left = 300
+
     fig.update_layout(
-        height=500,
+        height=height,
         showlegend=False,
-        yaxis={'categoryorder': 'total ascending'}
+        yaxis={'categoryorder': 'total ascending', 'tickfont': {'size': 11}},
+        margin=dict(l=margin_left, r=40, t=60, b=40)
     )
     
     return fig
@@ -189,6 +198,32 @@ def plot_depth_distribution(G):
     
     fig.update_layout(height=400, showlegend=False)
     return fig
+
+def render_scrollable_topics(topic_list, height='350px', cols=1):
+    """Render a scrollable, nicely spaced list of topics using a small HTML container.
+
+    topic_list: iterable of topic strings
+    height: CSS height for the scroll area
+    cols: number of visual columns inside the scroll area (not Streamlit columns)
+    """
+    # Simple column layout via inline-blocks
+    item_style = (
+        "display:inline-block; width:calc(100%/{cols} - 12px); vertical-align:top;"
+        .replace("{cols}", str(cols))
+    )
+
+    html = [f'<div style="height:{height}; overflow:auto; padding:8px; border:1px solid #eee; '
+            'border-radius:6px; background:#ffffff">']
+
+    for topic in topic_list:
+        html.append(
+            f'<div style="{item_style} padding:8px; margin:6px; border-radius:6px; '
+            'background:#fbfbfb; box-shadow: 0 1px 0 rgba(0,0,0,0.03);">'
+            f'{topic}</div>'
+        )
+
+    html.append('</div>')
+    st.markdown('\n'.join(html), unsafe_allow_html=True)
 
 def main():
     # Header
@@ -318,9 +353,27 @@ def show_analytics(G):
     selected_metric = metric_map[metric_type]
     
     # Display chart
-    top_n = st.slider("Number of topics to show", 10, 30, 20)
+    top_n = st.slider("Number of topics to show", 10, 50, 600)
     fig = plot_top_topics_bar(G, metric=selected_metric, top_n=top_n)
-    st.plotly_chart(fig, use_container_width=True)
+
+    # Option: keep chart at a fixed visual height but enable an internal vertical scrollbar
+    use_internal_scroll = st.checkbox("Keep chart fixed height and enable internal scroll (compact)")
+    if use_internal_scroll:
+        # Render Plotly as HTML snippet and wrap in a scrollable container.
+        # We'll keep the visible height similar to previous (500px) and let the user scroll.
+        visible_height = 500
+        plot_html = fig.to_html(full_html=False, include_plotlyjs='cdn')
+
+        # Use RTL on outer container so the scrollbar appears on the left, then reset to LTR for content.
+        wrapped = f"""
+        <div style="height:{visible_height}px; overflow:auto; direction:rtl; border-radius:6px; border:1px solid rgba(255,255,255,0.03); padding:6px; background:transparent;">
+            <div style="direction:ltr">{plot_html}</div>
+        </div>
+        """
+
+        components.html(wrapped, height=visible_height)
+    else:
+        st.plotly_chart(fig, use_container_width=True)
     
     # Explanation
     st.markdown("---")
@@ -445,14 +498,36 @@ def show_topic_explorer(G):
         all_topics = sorted(G.nodes())
         st.write(f"Total topics in graph: {len(all_topics)}")
         
-        # Display in columns
-        cols = st.columns(3)
-        for i, topic in enumerate(all_topics[:30]):
-            with cols[i % 3]:
-                st.write(f"• {topic}")
-        
-        if len(all_topics) > 30:
-            st.write(f"... and {len(all_topics) - 30} more topics")
+        # Option: show a scrollable list of top N topics for easier browsing
+        show_scroll = st.checkbox("Show scrollable list of top topics (compact view)")
+        if show_scroll:
+            top_n = st.slider("Number of topics to show", 10, min(200, len(all_topics)), min(50, len(all_topics)))
+            # Render in two visual columns inside the scroll area for spacing
+            render_scrollable_topics(all_topics[:top_n], height='420px', cols=2)
+
+            # Quick-open a topic from the list
+            selected_quick = st.selectbox("Quick open a topic", ["(none)"] + all_topics[:top_n])
+            if selected_quick and selected_quick != "(none)":
+                st.markdown("---")
+                st.subheader(f"📄 {selected_quick}")
+                st.write(G.nodes[selected_quick].get('summary', 'No summary available'))
+                url = G.nodes[selected_quick].get('url', '')
+                if url:
+                    st.markdown(f"[📖 Read full article on Wikipedia]({url})")
+                c1, c2, c3, c4 = st.columns(4)
+                c1.metric("Total Connections", G.degree(selected_quick))
+                c2.metric("Incoming", G.in_degree(selected_quick))
+                c3.metric("Outgoing", G.out_degree(selected_quick))
+                c4.metric("PageRank", f"{G.nodes[selected_quick].get('pagerank', 0):.6f}")
+        else:
+            # Display in columns (default small sample)
+            cols = st.columns(3)
+            for i, topic in enumerate(all_topics[:30]):
+                with cols[i % 3]:
+                    st.write(f"• {topic}")
+            
+            if len(all_topics) > 30:
+                st.write(f"... and {len(all_topics) - 30} more topics")
 
 if __name__ == "__main__":
     main()
