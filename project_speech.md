@@ -45,11 +45,11 @@ For each topic, we don't just record a link—we also capture:
 - The **full Wikipedia summary** (the introductory paragraph)
 - **Categories** the topic belongs to (e.g., "Engineering," "Artificial Intelligence")
 - **Article sections** (the table of contents—what aspects the topic covers)
-- **Images** from the Wikipedia page
+- **Images** from the Wikipedia page [TBD]
 - **Reference links** (academic citations within Wikipedia)
-- **Word count** (how detailed the article is)
+- **Word count** (how detailed the article is..)
 
-**Result:** A dataset of approximately 500 engineering-related topics with their connections and rich metadata.
+**Result:** A dataset of approximately 1000 engineering-related topics with their connections and rich metadata.
 
 ---
 
