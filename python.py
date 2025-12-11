@@ -132,7 +132,17 @@ class EngineeringKnowledgeGraphScraper:
             if not details:
                 continue
             
-            # Add current node with RICH metadata
+            # Add current node with metadata (reduce metadata extraction at deeper depths for speed)
+            # At depth 2+, skip expensive metadata to speed up scraping
+            if current_depth < 2:
+                categories = details['categories']
+                sections = details['sections']
+                images = details['images']
+            else:
+                categories = []  # Skip expensive extraction at depth 2+
+                sections = []
+                images = []
+            
             self.graph.add_node(
                 current_title,
                 depth=current_depth,
@@ -140,40 +150,48 @@ class EngineeringKnowledgeGraphScraper:
                 short_summary=details['summary'][:300] + "...",  # Short version for display
                 url=details['url'],
                 content_preview=details['content'][:500],  # Content preview
-                categories=details['categories'],
-                sections=details['sections'],
-                images=details['images'],
+                categories=categories,
+                sections=sections,
+                images=images,
                 references=details['references'][:5],
                 content_length=details['content_length'],
                 word_count=details['word_count']
             )
             self.visited.add(current_title)
             
-            # Process links
-            engineering_links = []
-            for link in details['links']:
-                # Skip if we've hit node limit
-                if len(self.graph.nodes) >= self.max_nodes:
-                    break
+            # Process links (only if we haven't reached max depth to avoid wasted work)
+            if current_depth < self.max_depth:
+                engineering_links = []
+                for link in details['links'][:15]:  # Reduced from 50 to 15 links per page
+                    # Skip if we've hit node limit
+                    if len(self.graph.nodes) >= self.max_nodes:
+                        break
+                    
+                    # Basic filtering
+                    if any(skip in link.lower() for skip in ['list of', 'category:', 'file:', 'template:']):
+                        continue
+                    
+                    # Check if engineering-related (quick check on title)
+                    if self.is_engineering_related(link, ""):
+                        engineering_links.append(link)
                 
-                # Basic filtering
-                if any(skip in link.lower() for skip in ['list of', 'category:', 'file:', 'template:']):
-                    continue
-                
-                # Check if engineering-related (quick check on title)
-                if self.is_engineering_related(link, ""):
-                    engineering_links.append(link)
+                # Queue new nodes for processing (don't add edges until target node is processed)
+                for link in engineering_links[:10]:  # Limit to 10 new links per page (was 20)
+                    # Only queue if not visited and within depth limit
+                    if link not in self.visited and current_depth < self.max_depth:
+                        queue.append((link, current_depth + 1))
+                    
+                    # Add edge only if the target node already exists with proper attributes
+                    if link in self.graph.nodes():
+                        self.graph.add_edge(current_title, link)
+            else:
+                # At max depth, still add edges to nodes we've already processed
+                for link in details['links'][:10]:
+                    if link in self.graph.nodes():
+                        self.graph.add_edge(current_title, link)
             
-            # Add edges and queue new nodes
-            for link in engineering_links[:20]:  # Limit links per page
-                self.graph.add_edge(current_title, link)
-                
-                # Add to queue for next depth level
-                if current_depth < self.max_depth:
-                    queue.append((link, current_depth + 1))
-            
-            # Rate limiting
-            time.sleep(0.5)
+            # Rate limiting (0.1s is conservative; Wikpedia allows ~1 req/sec)
+            time.sleep(0.1)
         
         print(f"\nScraping complete!")
         print(f"Total nodes: {len(self.graph.nodes)}")

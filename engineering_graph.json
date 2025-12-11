@@ -593,7 +593,7 @@
     },
     {
       "id": "Charles E. Jones (engineer)",
-      "depth": 0,
+      "depth": 1,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -5923,7 +5923,7 @@
     },
     {
       "id": "Neural network (disambiguation)",
-      "depth": 0,
+      "depth": 1,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8584,7 +8584,7 @@
     },
     {
       "id": "International Council on Systems Engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8602,7 +8602,7 @@
     },
     {
       "id": "International Society of Automation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8620,7 +8620,7 @@
     },
     {
       "id": "Licensed professional engineer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8638,7 +8638,7 @@
     },
     {
       "id": "Materials Research Society",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8656,7 +8656,7 @@
     },
     {
       "id": "National Council of Examiners for Engineering and Surveying",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8674,7 +8674,7 @@
     },
     {
       "id": "National Institute of Ceramic Engineers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8692,7 +8692,7 @@
     },
     {
       "id": "National Society of Professional Engineers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8710,7 +8710,7 @@
     },
     {
       "id": "Audio Engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8728,7 +8728,7 @@
     },
     {
       "id": "Audio Engineering Society",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8746,7 +8746,7 @@
     },
     {
       "id": "Audio engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8764,7 +8764,7 @@
     },
     {
       "id": "Audio engineers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8782,7 +8782,7 @@
     },
     {
       "id": "Agricultural biotechnology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8800,7 +8800,7 @@
     },
     {
       "id": "Agricultural technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8818,7 +8818,7 @@
     },
     {
       "id": "Aircraft flight control system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8836,7 +8836,7 @@
     },
     {
       "id": "American Institute of Electrical Engineers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8854,7 +8854,7 @@
     },
     {
       "id": "American Institute of Mining, Metallurgical, and Petroleum Engineers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8872,7 +8872,7 @@
     },
     {
       "id": "Technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8890,7 +8890,7 @@
     },
     {
       "id": "Analog neural network",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8908,7 +8908,7 @@
     },
     {
       "id": "Cambridge Museum of Technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8926,7 +8926,7 @@
     },
     {
       "id": "Control theory",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8944,7 +8944,7 @@
     },
     {
       "id": "3D computer graphics software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8962,7 +8962,7 @@
     },
     {
       "id": "Accounting software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8980,7 +8980,7 @@
     },
     {
       "id": "Animation software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -8998,7 +8998,7 @@
     },
     {
       "id": "Artificial Intelligence for IT Operations",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9016,7 +9016,7 @@
     },
     {
       "id": "Audio editing software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9034,7 +9034,7 @@
     },
     {
       "id": "Banking software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9052,7 +9052,7 @@
     },
     {
       "id": "Business software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9070,7 +9070,7 @@
     },
     {
       "id": "Calendaring software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9088,7 +9088,7 @@
     },
     {
       "id": "Computer-aided engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9106,7 +9106,7 @@
     },
     {
       "id": "Computer-aided manufacturing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9124,7 +9124,7 @@
     },
     {
       "id": "Computer operator",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9142,7 +9142,7 @@
     },
     {
       "id": "Computer program",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9160,7 +9160,7 @@
     },
     {
       "id": "Computer simulator",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9178,7 +9178,7 @@
     },
     {
       "id": "Database management system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9196,7 +9196,7 @@
     },
     {
       "id": "Database software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9214,7 +9214,7 @@
     },
     {
       "id": "Demo (computer programming)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9232,7 +9232,7 @@
     },
     {
       "id": "Desktop publishing software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9250,7 +9250,7 @@
     },
     {
       "id": "Coastal engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9268,7 +9268,7 @@
     },
     {
       "id": "Construction engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9286,7 +9286,7 @@
     },
     {
       "id": "Earthquake engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9304,7 +9304,7 @@
     },
     {
       "id": "Geotechnical engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9322,7 +9322,7 @@
     },
     {
       "id": "Industrial engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9340,7 +9340,7 @@
     },
     {
       "id": "Manufacturing engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9358,7 +9358,7 @@
     },
     {
       "id": "Mechanical engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9376,7 +9376,7 @@
     },
     {
       "id": "Mechanics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9394,7 +9394,7 @@
     },
     {
       "id": "Michael Beer (civil engineer)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9412,7 +9412,7 @@
     },
     {
       "id": "Nuclear engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9430,7 +9430,7 @@
     },
     {
       "id": "Ocean engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9448,7 +9448,7 @@
     },
     {
       "id": "Resilience (engineering and construction)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9466,7 +9466,7 @@
     },
     {
       "id": "Structural engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9484,7 +9484,7 @@
     },
     {
       "id": "Thermodynamics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9502,7 +9502,7 @@
     },
     {
       "id": "Transport engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9520,7 +9520,7 @@
     },
     {
       "id": "Water resources engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9538,7 +9538,7 @@
     },
     {
       "id": "Chemical engineer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9556,7 +9556,7 @@
     },
     {
       "id": "History of chemical engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9574,7 +9574,7 @@
     },
     {
       "id": "Mechanical engineers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9592,7 +9592,7 @@
     },
     {
       "id": "Process design (chemical engineering)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9610,7 +9610,7 @@
     },
     {
       "id": "Process engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9628,7 +9628,7 @@
     },
     {
       "id": "Process safety",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9646,7 +9646,7 @@
     },
     {
       "id": "Thermodynamic databases for pure substances",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9664,7 +9664,7 @@
     },
     {
       "id": "Besser Manufacturing Co. v. United States",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9682,7 +9682,7 @@
     },
     {
       "id": "Breakup of the Bell System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9700,7 +9700,7 @@
     },
     {
       "id": "The American Society of Mechanical Engineers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9718,7 +9718,7 @@
     },
     {
       "id": "Digital signal processing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9736,7 +9736,7 @@
     },
     {
       "id": "Electrical engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9754,7 +9754,7 @@
     },
     {
       "id": "LC circuit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9772,7 +9772,7 @@
     },
     {
       "id": "Microwave analog signal processing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9790,7 +9790,7 @@
     },
     {
       "id": "RC circuit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9808,7 +9808,7 @@
     },
     {
       "id": "RLC circuit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9826,7 +9826,7 @@
     },
     {
       "id": "Series and parallel circuits",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9844,7 +9844,7 @@
     },
     {
       "id": "Signal (electrical engineering)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9862,7 +9862,7 @@
     },
     {
       "id": "Signal processing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9880,7 +9880,7 @@
     },
     {
       "id": "ATHENA computer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9898,7 +9898,7 @@
     },
     {
       "id": "Abort Guidance System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9916,7 +9916,7 @@
     },
     {
       "id": "Albert Hopkins (computer scientist)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9934,7 +9934,7 @@
     },
     {
       "id": "Apollo Abort Guidance System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9952,7 +9952,7 @@
     },
     {
       "id": "Acoustic engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9970,7 +9970,7 @@
     },
     {
       "id": "American Society of Plumbing Engineers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -9988,7 +9988,7 @@
     },
     {
       "id": "Architectural engineer (PE)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10006,7 +10006,7 @@
     },
     {
       "id": "Architectural lighting design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10024,7 +10024,7 @@
     },
     {
       "id": "Architectural technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10042,7 +10042,7 @@
     },
     {
       "id": "Bayesian optimization",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10060,7 +10060,7 @@
     },
     {
       "id": "Andrew Jackson (recording engineer)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10078,7 +10078,7 @@
     },
     {
       "id": "Active noise control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10096,7 +10096,7 @@
     },
     {
       "id": "Amplitude modulation signalling system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10114,7 +10114,7 @@
     },
     {
       "id": "Audio data compression",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10132,7 +10132,7 @@
     },
     {
       "id": "Clipping (signal processing)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10150,7 +10150,7 @@
     },
     {
       "id": "Automation technician",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10168,7 +10168,7 @@
     },
     {
       "id": "Control engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10186,7 +10186,7 @@
     },
     {
       "id": "Factory automation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10204,7 +10204,7 @@
     },
     {
       "id": "Mechatronics engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10222,7 +10222,7 @@
     },
     {
       "id": "Process automation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10240,7 +10240,7 @@
     },
     {
       "id": "Processes",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10258,7 +10258,7 @@
     },
     {
       "id": "Programmable logic controllers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10276,7 +10276,7 @@
     },
     {
       "id": "Systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10294,7 +10294,7 @@
     },
     {
       "id": "Warehouse automation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10312,7 +10312,7 @@
     },
     {
       "id": "Anti-lock braking system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10330,7 +10330,7 @@
     },
     {
       "id": "Association for Standardisation of Automation and Measuring Systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10348,7 +10348,7 @@
     },
     {
       "id": "Automobile emissions control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10366,7 +10366,7 @@
     },
     {
       "id": "Automotive design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10384,7 +10384,7 @@
     },
     {
       "id": "Agricultural Engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10402,7 +10402,7 @@
     },
     {
       "id": "Architectural Engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10420,7 +10420,7 @@
     },
     {
       "id": "Automotive Engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10438,7 +10438,7 @@
     },
     {
       "id": "Bachelor of Applied Technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10456,7 +10456,7 @@
     },
     {
       "id": "Bachelor of Science in Information Technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10474,7 +10474,7 @@
     },
     {
       "id": "Biological Engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10492,7 +10492,7 @@
     },
     {
       "id": "Building engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10510,7 +10510,7 @@
     },
     {
       "id": "Canadian Engineering Accreditation Board",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10528,7 +10528,7 @@
     },
     {
       "id": "Ceramic engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10546,7 +10546,7 @@
     },
     {
       "id": "Chartered engineer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10564,7 +10564,7 @@
     },
     {
       "id": "Chartered engineer (UK)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10582,7 +10582,7 @@
     },
     {
       "id": "British Columbia Institute of Technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10600,7 +10600,7 @@
     },
     {
       "id": "Computer science and engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10618,7 +10618,7 @@
     },
     {
       "id": "Computer security",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10636,7 +10636,7 @@
     },
     {
       "id": "Electronic engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10654,7 +10654,7 @@
     },
     {
       "id": "Engineer's degree",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10672,7 +10672,7 @@
     },
     {
       "id": "Engineering education in India",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10690,7 +10690,7 @@
     },
     {
       "id": "Engineering technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10708,7 +10708,7 @@
     },
     {
       "id": "Bioprocess",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10726,7 +10726,7 @@
     },
     {
       "id": "Bioproducts engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10744,7 +10744,7 @@
     },
     {
       "id": "Biosystems engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10762,7 +10762,7 @@
     },
     {
       "id": "Biotechnology in pharmaceutical manufacturing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10780,7 +10780,7 @@
     },
     {
       "id": "Downstream (bioprocess)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10798,7 +10798,7 @@
     },
     {
       "id": "Drug delivery systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10816,7 +10816,7 @@
     },
     {
       "id": "Federal University of Technology \u2013 Paran\u00e1",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10834,7 +10834,7 @@
     },
     {
       "id": "Fermentation in food processing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10852,7 +10852,7 @@
     },
     {
       "id": "Food engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10870,7 +10870,7 @@
     },
     {
       "id": "Food processing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10888,7 +10888,7 @@
     },
     {
       "id": "Genetically engineered",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10906,7 +10906,7 @@
     },
     {
       "id": "American Institute for Medical and Biological Engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10924,7 +10924,7 @@
     },
     {
       "id": "Biocompatible materials",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10942,7 +10942,7 @@
     },
     {
       "id": "Biomechanics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10960,7 +10960,7 @@
     },
     {
       "id": "Alternative natural materials",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10978,7 +10978,7 @@
     },
     {
       "id": "Atomic structure",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -10996,7 +10996,7 @@
     },
     {
       "id": "Bio-based material",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11014,7 +11014,7 @@
     },
     {
       "id": "Biomaterials (journal)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11032,7 +11032,7 @@
     },
     {
       "id": "Biotic material",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11050,7 +11050,7 @@
     },
     {
       "id": "Building insulation material",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11068,7 +11068,7 @@
     },
     {
       "id": "Building material",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11086,7 +11086,7 @@
     },
     {
       "id": "Certified reference materials",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11104,7 +11104,7 @@
     },
     {
       "id": "Combustible material",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11122,7 +11122,7 @@
     },
     {
       "id": "Composite material",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11140,7 +11140,7 @@
     },
     {
       "id": "Computational mechanics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11158,7 +11158,7 @@
     },
     {
       "id": "Continuum mechanics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11176,7 +11176,7 @@
     },
     {
       "id": "Forensic biomechanics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11194,7 +11194,7 @@
     },
     {
       "id": "Sports engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11212,7 +11212,7 @@
     },
     {
       "id": "Tissue engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11230,7 +11230,7 @@
     },
     {
       "id": "Design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11248,7 +11248,7 @@
     },
     {
       "id": "Spirit AeroSystems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11266,7 +11266,7 @@
     },
     {
       "id": "ASCE Journal of Structural Engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11284,7 +11284,7 @@
     },
     {
       "id": "Alfred Noble (engineer)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11302,7 +11302,7 @@
     },
     {
       "id": "Benjamin Wright (civil engineer)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11320,7 +11320,7 @@
     },
     {
       "id": "Boston Society of Civil Engineers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11338,7 +11338,7 @@
     },
     {
       "id": "Engineering Societies' Building",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11356,7 +11356,7 @@
     },
     {
       "id": ".design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11374,7 +11374,7 @@
     },
     {
       "id": "Active design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11392,7 +11392,7 @@
     },
     {
       "id": "Activity-centered design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11410,7 +11410,7 @@
     },
     {
       "id": "Adaptive web design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11428,7 +11428,7 @@
     },
     {
       "id": "Affective design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11446,7 +11446,7 @@
     },
     {
       "id": "Algorithms-Aided Design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11464,7 +11464,7 @@
     },
     {
       "id": "Architect-led design\u2013build",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11482,7 +11482,7 @@
     },
     {
       "id": "Architectural design competition",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11500,7 +11500,7 @@
     },
     {
       "id": "Architectural design values",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11518,7 +11518,7 @@
     },
     {
       "id": "Architectural designer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11536,7 +11536,7 @@
     },
     {
       "id": "Argument from poor design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11554,7 +11554,7 @@
     },
     {
       "id": "Automotive suspension design process",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11572,7 +11572,7 @@
     },
     {
       "id": "Behavioural design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11590,7 +11590,7 @@
     },
     {
       "id": "Boiler design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11608,7 +11608,7 @@
     },
     {
       "id": "Book design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11626,7 +11626,7 @@
     },
     {
       "id": "Chemical reaction engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11644,7 +11644,7 @@
     },
     {
       "id": "Biological processes",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11662,7 +11662,7 @@
     },
     {
       "id": "Biomanufacturing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11680,7 +11680,7 @@
     },
     {
       "id": "Biomaterials",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11698,7 +11698,7 @@
     },
     {
       "id": "Applied Science and Convergence Technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11716,7 +11716,7 @@
     },
     {
       "id": "Algebraic structure",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11734,7 +11734,7 @@
     },
     {
       "id": "Algorithm (disambiguation)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11752,7 +11752,7 @@
     },
     {
       "id": "Algorithm aversion",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11770,7 +11770,7 @@
     },
     {
       "id": "Algorithm characterizations",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11788,7 +11788,7 @@
     },
     {
       "id": "Algorithm engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11806,7 +11806,7 @@
     },
     {
       "id": "Algorithmic composition",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11824,7 +11824,7 @@
     },
     {
       "id": "Algorithmic entities",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11842,7 +11842,7 @@
     },
     {
       "id": "Algorithmic paradigm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11860,7 +11860,7 @@
     },
     {
       "id": "Algorithmic synthesis",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11878,7 +11878,7 @@
     },
     {
       "id": "Algorithmic technique",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11896,7 +11896,7 @@
     },
     {
       "id": "Algorithmic topology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11914,7 +11914,7 @@
     },
     {
       "id": "Analytical mechanics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11932,7 +11932,7 @@
     },
     {
       "id": "Approximation algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11950,7 +11950,7 @@
     },
     {
       "id": "Array (data structure)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11968,7 +11968,7 @@
     },
     {
       "id": "Assignment (computer science)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -11986,7 +11986,7 @@
     },
     {
       "id": "Application-specific instruction set processor",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12004,7 +12004,7 @@
     },
     {
       "id": "Application-specific integrated circuit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12022,7 +12022,7 @@
     },
     {
       "id": "Barrel processor",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12040,7 +12040,7 @@
     },
     {
       "id": "Baseband processor",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12058,7 +12058,7 @@
     },
     {
       "id": "British Computer Society Young Professionals Group",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12076,7 +12076,7 @@
     },
     {
       "id": "Chartered Engineer (UK)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12094,7 +12094,7 @@
     },
     {
       "id": "Computer Arts Society",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12112,7 +12112,7 @@
     },
     {
       "id": "Computer Conservation Society",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12130,7 +12130,7 @@
     },
     {
       "id": "Computer Weekly",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12148,7 +12148,7 @@
     },
     {
       "id": "Data Centre Specialist Group",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12166,7 +12166,7 @@
     },
     {
       "id": "Distinguished Fellow of the British Computer Society",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12184,7 +12184,7 @@
     },
     {
       "id": "Engineering Council",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12202,7 +12202,7 @@
     },
     {
       "id": "Engineering Council UK",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12220,7 +12220,7 @@
     },
     {
       "id": "European Computer Driving Licence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12238,7 +12238,7 @@
     },
     {
       "id": "European Engineer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12256,7 +12256,7 @@
     },
     {
       "id": "European Federation of National Engineering Associations",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12274,7 +12274,7 @@
     },
     {
       "id": "Incorporated Engineer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12292,7 +12292,7 @@
     },
     {
       "id": "Information Systems Examination Board",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12310,7 +12310,7 @@
     },
     {
       "id": "Information technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12328,7 +12328,7 @@
     },
     {
       "id": "Association of Public Radio Engineers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12346,7 +12346,7 @@
     },
     {
       "id": "Automatic transmission system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12364,7 +12364,7 @@
     },
     {
       "id": "Broadcast automation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12382,7 +12382,7 @@
     },
     {
       "id": "Chamber of Electrical Engineers of Turkey",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12400,7 +12400,7 @@
     },
     {
       "id": "Computer networking",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12418,7 +12418,7 @@
     },
     {
       "id": "Computer storage",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12436,7 +12436,7 @@
     },
     {
       "id": "Control room",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12454,7 +12454,7 @@
     },
     {
       "id": "Design engineer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12472,7 +12472,7 @@
     },
     {
       "id": "Digital data",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12490,7 +12490,7 @@
     },
     {
       "id": "AN/BLQ-11 Long-Term Mine Reconnaissance System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12508,7 +12508,7 @@
     },
     {
       "id": "Advanced SEAL Delivery System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12526,7 +12526,7 @@
     },
     {
       "id": "Atlas of Pidgin and Creole Language Structures",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12544,7 +12544,7 @@
     },
     {
       "id": "Quality control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12562,7 +12562,7 @@
     },
     {
       "id": "Air traffic control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12580,7 +12580,7 @@
     },
     {
       "id": "Aircraft flight mechanics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12598,7 +12598,7 @@
     },
     {
       "id": "Aquaculture engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12616,7 +12616,7 @@
     },
     {
       "id": "Business process",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12634,7 +12634,7 @@
     },
     {
       "id": "Cognitive systems engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12652,7 +12652,7 @@
     },
     {
       "id": "Design review",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12670,7 +12670,7 @@
     },
     {
       "id": "Earth systems engineering and management",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12688,7 +12688,7 @@
     },
     {
       "id": "Ecological engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12706,7 +12706,7 @@
     },
     {
       "id": "Enterprise systems engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12724,7 +12724,7 @@
     },
     {
       "id": "Anterior cruciate ligament reconstruction",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12742,7 +12742,7 @@
     },
     {
       "id": "Computer-assisted surgery",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12760,7 +12760,7 @@
     },
     {
       "id": "3D computer graphics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12778,7 +12778,7 @@
     },
     {
       "id": "Artificial heart",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12796,7 +12796,7 @@
     },
     {
       "id": "Artificial kidney",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12814,7 +12814,7 @@
     },
     {
       "id": "Assistive technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12832,7 +12832,7 @@
     },
     {
       "id": "Artificial bone",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12850,7 +12850,7 @@
     },
     {
       "id": "Artificial lung",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12868,7 +12868,7 @@
     },
     {
       "id": "Artificial ovaries",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12886,7 +12886,7 @@
     },
     {
       "id": "Artificial ovary",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12904,7 +12904,7 @@
     },
     {
       "id": "Artificial pancreas",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12922,7 +12922,7 @@
     },
     {
       "id": "Artificial skin",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12940,7 +12940,7 @@
     },
     {
       "id": "Artificial uterus",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12958,7 +12958,7 @@
     },
     {
       "id": "Auditory system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12976,7 +12976,7 @@
     },
     {
       "id": "Circulatory system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -12994,7 +12994,7 @@
     },
     {
       "id": "Artificial cardiac pacemaker",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13012,7 +13012,7 @@
     },
     {
       "id": "Artificial tissue",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13030,7 +13030,7 @@
     },
     {
       "id": "Case Western Reserve University - Biomedical Engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13048,7 +13048,7 @@
     },
     {
       "id": "Fundamentals of Engineering exam",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13066,7 +13066,7 @@
     },
     {
       "id": "Genetic engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13084,7 +13084,7 @@
     },
     {
       "id": "Building automation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13102,7 +13102,7 @@
     },
     {
       "id": "Association of Environmental Engineering and Science Professors",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13120,7 +13120,7 @@
     },
     {
       "id": "Engineer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13138,7 +13138,7 @@
     },
     {
       "id": "Environmental engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13156,7 +13156,7 @@
     },
     {
       "id": "Sanitary engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13174,7 +13174,7 @@
     },
     {
       "id": "Alternative technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13192,7 +13192,7 @@
     },
     {
       "id": "Appropriate Technology and Its Role",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13210,7 +13210,7 @@
     },
     {
       "id": "Campus Center for Appropriate Technology (CCAT)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13228,7 +13228,7 @@
     },
     {
       "id": "Centre for Alternative Technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13246,7 +13246,7 @@
     },
     {
       "id": "Abstract data type",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13264,7 +13264,7 @@
     },
     {
       "id": "Abstraction principle (computer programming)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13282,7 +13282,7 @@
     },
     {
       "id": "Business process modeling",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13300,7 +13300,7 @@
     },
     {
       "id": "Class (computer science)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13318,7 +13318,7 @@
     },
     {
       "id": "Common Lisp Object System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13336,7 +13336,7 @@
     },
     {
       "id": "Component-based software engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13354,7 +13354,7 @@
     },
     {
       "id": "Computer compatibility",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13372,7 +13372,7 @@
     },
     {
       "id": "Computer configuration",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13390,7 +13390,7 @@
     },
     {
       "id": "Computer language",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13408,7 +13408,7 @@
     },
     {
       "id": "Control flow",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13426,7 +13426,7 @@
     },
     {
       "id": "Data (computer science)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13444,7 +13444,7 @@
     },
     {
       "id": "Data model",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13462,7 +13462,7 @@
     },
     {
       "id": "Data modeling",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13480,7 +13480,7 @@
     },
     {
       "id": "Data type",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13498,7 +13498,7 @@
     },
     {
       "id": "Database administrator",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13516,7 +13516,7 @@
     },
     {
       "id": "Agile Unified Process",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13534,7 +13534,7 @@
     },
     {
       "id": "Agile manufacturing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13552,7 +13552,7 @@
     },
     {
       "id": "Agile unified process",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13570,7 +13570,7 @@
     },
     {
       "id": "Branching (revision control)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13588,7 +13588,7 @@
     },
     {
       "id": "Build automation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13606,7 +13606,7 @@
     },
     {
       "id": "Change control board",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13624,7 +13624,7 @@
     },
     {
       "id": "Cleanroom software engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13642,7 +13642,7 @@
     },
     {
       "id": "Commit (version control)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13660,7 +13660,7 @@
     },
     {
       "id": "Computer (magazine)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13678,7 +13678,7 @@
     },
     {
       "id": "Capella (engineering)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13696,7 +13696,7 @@
     },
     {
       "id": "Complex system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13714,7 +13714,7 @@
     },
     {
       "id": "Constraint (computer-aided design)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13732,7 +13732,7 @@
     },
     {
       "id": "Functional design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13750,7 +13750,7 @@
     },
     {
       "id": "Life-critical system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13768,7 +13768,7 @@
     },
     {
       "id": "Model-driven engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13786,7 +13786,7 @@
     },
     {
       "id": "Software engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13804,7 +13804,7 @@
     },
     {
       "id": "Systems architecture",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13822,7 +13822,7 @@
     },
     {
       "id": "Systems design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13840,7 +13840,7 @@
     },
     {
       "id": "Systems engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13858,7 +13858,7 @@
     },
     {
       "id": "Top-down and bottom-up design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13876,7 +13876,7 @@
     },
     {
       "id": "Correctness (computer science)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13894,7 +13894,7 @@
     },
     {
       "id": "Software bug",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13912,7 +13912,7 @@
     },
     {
       "id": "Software documentation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13930,7 +13930,7 @@
     },
     {
       "id": "Software inspection",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13948,7 +13948,7 @@
     },
     {
       "id": "Software walkthrough",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13966,7 +13966,7 @@
     },
     {
       "id": "Unified Process",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -13984,7 +13984,7 @@
     },
     {
       "id": "Cardiovascular system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14002,7 +14002,7 @@
     },
     {
       "id": "Adaptive immune system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14020,7 +14020,7 @@
     },
     {
       "id": "Complex adaptive system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14038,7 +14038,7 @@
     },
     {
       "id": "Ecosystems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14056,7 +14056,7 @@
     },
     {
       "id": "Genetic algorithms",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14074,7 +14074,7 @@
     },
     {
       "id": "Neural adaptation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14092,7 +14092,7 @@
     },
     {
       "id": "Algorithms to estimate distribution",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14110,7 +14110,7 @@
     },
     {
       "id": "Ant colony optimization algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14128,7 +14128,7 @@
     },
     {
       "id": "Ant robotics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14146,7 +14146,7 @@
     },
     {
       "id": "Artificial immune system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14164,7 +14164,7 @@
     },
     {
       "id": "Bees algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14182,7 +14182,7 @@
     },
     {
       "id": "Bellman\u2013Ford algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14200,7 +14200,7 @@
     },
     {
       "id": "Berndt\u2013Hall\u2013Hall\u2013Hausman algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14218,7 +14218,7 @@
     },
     {
       "id": "Bor\u016fvka's algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14236,7 +14236,7 @@
     },
     {
       "id": "Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14254,7 +14254,7 @@
     },
     {
       "id": "Collective intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14272,7 +14272,7 @@
     },
     {
       "id": "Combinatorial optimization",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14290,7 +14290,7 @@
     },
     {
       "id": "Artificial (disambiguation)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14308,7 +14308,7 @@
     },
     {
       "id": "Artificial sweetener",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14326,7 +14326,7 @@
     },
     {
       "id": "Texture (computer graphics)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14344,7 +14344,7 @@
     },
     {
       "id": "Ant colony optimization",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14362,7 +14362,7 @@
     },
     {
       "id": "Artificial cell",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14380,7 +14380,7 @@
     },
     {
       "id": "Artificial chemistry",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14398,7 +14398,7 @@
     },
     {
       "id": "Artificial life (disambiguation)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14416,7 +14416,7 @@
     },
     {
       "id": "Avida (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14434,7 +14434,7 @@
     },
     {
       "id": "Axiomatic system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14452,7 +14452,7 @@
     },
     {
       "id": "Bacterial colony optimization",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14470,7 +14470,7 @@
     },
     {
       "id": "Compiler construction",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14488,7 +14488,7 @@
     },
     {
       "id": "Architecture of Integrated Information Systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14506,7 +14506,7 @@
     },
     {
       "id": "Business Process Execution Language",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14524,7 +14524,7 @@
     },
     {
       "id": "Business Process Model and Notation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14542,7 +14542,7 @@
     },
     {
       "id": "Business process management",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14560,7 +14560,7 @@
     },
     {
       "id": "Business process mapping",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14578,7 +14578,7 @@
     },
     {
       "id": "Business process re-engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14596,7 +14596,7 @@
     },
     {
       "id": "Business process redesign",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14614,7 +14614,7 @@
     },
     {
       "id": "Business processes",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14632,7 +14632,7 @@
     },
     {
       "id": "Continual improvement process",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14650,7 +14650,7 @@
     },
     {
       "id": "Dual control theory",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14668,7 +14668,7 @@
     },
     {
       "id": "Intelligent control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14686,7 +14686,7 @@
     },
     {
       "id": "Iterative learning control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14704,7 +14704,7 @@
     },
     {
       "id": "Lyapunov optimization",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14722,7 +14722,7 @@
     },
     {
       "id": "Nonlinear control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14740,7 +14740,7 @@
     },
     {
       "id": "Robust control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14758,7 +14758,7 @@
     },
     {
       "id": "Robustness (computer science)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14776,7 +14776,7 @@
     },
     {
       "id": "System identification",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14794,7 +14794,7 @@
     },
     {
       "id": "Distributed control system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14812,7 +14812,7 @@
     },
     {
       "id": "PID controller",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14830,7 +14830,7 @@
     },
     {
       "id": "Process variable",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14848,7 +14848,7 @@
     },
     {
       "id": "Programmable logic controller",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14866,7 +14866,7 @@
     },
     {
       "id": "Adaptive cruise control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14884,7 +14884,7 @@
     },
     {
       "id": "Ambient intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14902,7 +14902,7 @@
     },
     {
       "id": "Trapeznikov Institute of Control Sciences",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14920,7 +14920,7 @@
     },
     {
       "id": "Double-setpoint control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14938,7 +14938,7 @@
     },
     {
       "id": "Feedback control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14956,7 +14956,7 @@
     },
     {
       "id": "Hamiltonian (control theory)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14974,7 +14974,7 @@
     },
     {
       "id": "Optimal control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -14992,7 +14992,7 @@
     },
     {
       "id": "PID control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15010,7 +15010,7 @@
     },
     {
       "id": "Sliding mode control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15028,7 +15028,7 @@
     },
     {
       "id": "Variable structure system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15046,7 +15046,7 @@
     },
     {
       "id": "Variable structure systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15064,7 +15064,7 @@
     },
     {
       "id": "BEAM robotics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15082,7 +15082,7 @@
     },
     {
       "id": "Barrett Technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15100,7 +15100,7 @@
     },
     {
       "id": "Cloud robotics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15118,7 +15118,7 @@
     },
     {
       "id": "Competitions and prizes in artificial intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15136,7 +15136,7 @@
     },
     {
       "id": "Developmental robotics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15154,7 +15154,7 @@
     },
     {
       "id": "Doosan Robotics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15172,7 +15172,7 @@
     },
     {
       "id": "Educational robotics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15190,7 +15190,7 @@
     },
     {
       "id": "Evolutionary robotics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15208,7 +15208,7 @@
     },
     {
       "id": "Amazon Elastic File System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15226,7 +15226,7 @@
     },
     {
       "id": "3D Robotics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15244,7 +15244,7 @@
     },
     {
       "id": "Anthrobotics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15262,7 +15262,7 @@
     },
     {
       "id": "Artificial Life",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15280,7 +15280,7 @@
     },
     {
       "id": "Affect control theory",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15298,7 +15298,7 @@
     },
     {
       "id": "Advanced Materials",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15316,7 +15316,7 @@
     },
     {
       "id": "Closed-loop control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15334,7 +15334,7 @@
     },
     {
       "id": "Emerging technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15352,7 +15352,7 @@
     },
     {
       "id": "Ethics of artificial intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15370,7 +15370,7 @@
     },
     {
       "id": "Ethics of technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15388,7 +15388,7 @@
     },
     {
       "id": "Exploratory engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15406,7 +15406,7 @@
     },
     {
       "id": "Femtotechnology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15424,7 +15424,7 @@
     },
     {
       "id": "Future-oriented technology analysis",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15442,7 +15442,7 @@
     },
     {
       "id": "Home automation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15460,7 +15460,7 @@
     },
     {
       "id": "Soundboard (computer program)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15478,7 +15478,7 @@
     },
     {
       "id": "ARITH Symposium on Computer Arithmetic",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15496,7 +15496,7 @@
     },
     {
       "id": "Automation bias",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15514,7 +15514,7 @@
     },
     {
       "id": "Conference on Computer Vision and Pattern Recognition",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15532,7 +15532,7 @@
     },
     {
       "id": "Custom Integrated Circuits Conference",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15550,7 +15550,7 @@
     },
     {
       "id": "Design Automation Conference",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15568,7 +15568,7 @@
     },
     {
       "id": "Design Automation and Test in Europe",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15586,7 +15586,7 @@
     },
     {
       "id": "Electronic design automation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15604,7 +15604,7 @@
     },
     {
       "id": "IEEE Robotics and Automation Award",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15622,7 +15622,7 @@
     },
     {
       "id": "Integrated library system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15640,7 +15640,7 @@
     },
     {
       "id": "International Conference on Acoustics, Speech, and Signal Processing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15658,7 +15658,7 @@
     },
     {
       "id": "International Conference on Computer-Aided Design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15676,7 +15676,7 @@
     },
     {
       "id": "International Conference on Computer Vision",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15694,7 +15694,7 @@
     },
     {
       "id": "International Conference on Software Engineering and Formal Methods",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15712,7 +15712,7 @@
     },
     {
       "id": "International Solid-State Circuits Conference",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15730,7 +15730,7 @@
     },
     {
       "id": "Ateliers de constructions \u00e9lectriques du Nord et de l'Est",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15748,7 +15748,7 @@
     },
     {
       "id": "Constructions Electriques de Belgique",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15766,7 +15766,7 @@
     },
     {
       "id": "Automated Lane Keeping System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15784,7 +15784,7 @@
     },
     {
       "id": "Automated Lane Keeping Systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15802,7 +15802,7 @@
     },
     {
       "id": "Automated emergency braking system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15820,7 +15820,7 @@
     },
     {
       "id": "Automotive navigation system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15838,7 +15838,7 @@
     },
     {
       "id": "Autonomous cruise control system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15856,7 +15856,7 @@
     },
     {
       "id": "Computer vision",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15874,7 +15874,7 @@
     },
     {
       "id": "Inventory management software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15892,7 +15892,7 @@
     },
     {
       "id": "Bio-inspired robotics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15910,7 +15910,7 @@
     },
     {
       "id": "Android (operating system)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15928,7 +15928,7 @@
     },
     {
       "id": "Coupled human\u2013environment system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15946,7 +15946,7 @@
     },
     {
       "id": "Earth system science",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15964,7 +15964,7 @@
     },
     {
       "id": "Economic system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -15982,7 +15982,7 @@
     },
     {
       "id": "Ecosystem",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16000,7 +16000,7 @@
     },
     {
       "id": "Engineering cybernetics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16018,7 +16018,7 @@
     },
     {
       "id": "5D optical data storage",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16036,7 +16036,7 @@
     },
     {
       "id": "Dijkstra's algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16054,7 +16054,7 @@
     },
     {
       "id": "Floyd\u2013Warshall algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16072,7 +16072,7 @@
     },
     {
       "id": "Graph (data structure)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16090,7 +16090,7 @@
     },
     {
       "id": "Greedy algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16108,7 +16108,7 @@
     },
     {
       "id": "Heuristic (computer science)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16126,7 +16126,7 @@
     },
     {
       "id": "Informed search algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16144,7 +16144,7 @@
     },
     {
       "id": "Johnson's algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16162,7 +16162,7 @@
     },
     {
       "id": "A.I. Artificial Intelligence (soundtrack)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16180,7 +16180,7 @@
     },
     {
       "id": "Computational engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16198,7 +16198,7 @@
     },
     {
       "id": "Computer Science Ontology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16216,7 +16216,7 @@
     },
     {
       "id": "Computer accessibility",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16234,7 +16234,7 @@
     },
     {
       "id": "Computer animation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16252,7 +16252,7 @@
     },
     {
       "id": "Computer architecture",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16270,7 +16270,7 @@
     },
     {
       "id": "Computer graphics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16288,7 +16288,7 @@
     },
     {
       "id": "Concurrency (computer science)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16306,7 +16306,7 @@
     },
     {
       "id": "Artificial Intelligence: A Modern Approach",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16324,7 +16324,7 @@
     },
     {
       "id": "Artificial Intelligence Act",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16342,7 +16342,7 @@
     },
     {
       "id": "Center for Human-Compatible Artificial Intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16360,7 +16360,7 @@
     },
     {
       "id": "Do You Trust This Computer?",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16378,7 +16378,7 @@
     },
     {
       "id": "Existential risk from artificial general intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16396,7 +16396,7 @@
     },
     {
       "id": "Existential risk from artificial intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16414,7 +16414,7 @@
     },
     {
       "id": "Friendly artificial intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16432,7 +16432,7 @@
     },
     {
       "id": "Intelligence explosion",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16450,7 +16450,7 @@
     },
     {
       "id": "Collision avoidance system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16468,7 +16468,7 @@
     },
     {
       "id": "Computer stereo vision",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16486,7 +16486,7 @@
     },
     {
       "id": "Context-aware pervasive systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16504,7 +16504,7 @@
     },
     {
       "id": "Cruise control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16522,7 +16522,7 @@
     },
     {
       "id": "Driver monitoring system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16540,7 +16540,7 @@
     },
     {
       "id": "Binary search algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16558,7 +16558,7 @@
     },
     {
       "id": "Association for the Advancement of Artificial Intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16576,7 +16576,7 @@
     },
     {
       "id": "Conference on Neural Information Processing Systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16594,7 +16594,7 @@
     },
     {
       "id": "International Conference on Machine Learning",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16612,7 +16612,7 @@
     },
     {
       "id": "Journal of Machine Learning Research",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16630,7 +16630,7 @@
     },
     {
       "id": "Machine Learning (journal)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16648,7 +16648,7 @@
     },
     {
       "id": "Bayesian Optimization",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16666,7 +16666,7 @@
     },
     {
       "id": "Boosting (machine learning)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16684,7 +16684,7 @@
     },
     {
       "id": "CURE algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16702,7 +16702,7 @@
     },
     {
       "id": "Convolutional neural network",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16720,7 +16720,7 @@
     },
     {
       "id": "Data cleaning",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16738,7 +16738,7 @@
     },
     {
       "id": "Data mining",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16756,7 +16756,7 @@
     },
     {
       "id": "Dalle Molle Institute for Artificial Intelligence Research",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16774,7 +16774,7 @@
     },
     {
       "id": "Differentiable neural computer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16792,7 +16792,7 @@
     },
     {
       "id": "Neural Turing machine",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16810,7 +16810,7 @@
     },
     {
       "id": "Recurrent neural network",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16828,7 +16828,7 @@
     },
     {
       "id": "Algorithmic accountability",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16846,7 +16846,7 @@
     },
     {
       "id": "Algorithmic wage discrimination",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16864,7 +16864,7 @@
     },
     {
       "id": "Algorithms of Oppression",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16882,7 +16882,7 @@
     },
     {
       "id": "Analysis of parallel algorithms",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16900,7 +16900,7 @@
     },
     {
       "id": "Central processing unit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16918,7 +16918,7 @@
     },
     {
       "id": "Compiler optimization",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16936,7 +16936,7 @@
     },
     {
       "id": "Regulation of algorithms",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16954,7 +16954,7 @@
     },
     {
       "id": "Reverse engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16972,7 +16972,7 @@
     },
     {
       "id": "AWS Database Migration Service",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -16990,7 +16990,7 @@
     },
     {
       "id": "Computer file",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17008,7 +17008,7 @@
     },
     {
       "id": "(Descriptive Machine Learning)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17026,7 +17026,7 @@
     },
     {
       "id": "Apache CarbonData",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17044,7 +17044,7 @@
     },
     {
       "id": "Apache FOP (Formatting Objects Processor)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17062,7 +17062,7 @@
     },
     {
       "id": "Algorithmic trading",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17080,7 +17080,7 @@
     },
     {
       "id": "Applications of artificial intelligence to legal informatics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17098,7 +17098,7 @@
     },
     {
       "id": "Applications of machine learning",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17116,7 +17116,7 @@
     },
     {
       "id": "Artificial intelligence and elections",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17134,7 +17134,7 @@
     },
     {
       "id": "Artificial intelligence in Wikimedia projects",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17152,7 +17152,7 @@
     },
     {
       "id": "Artificial intelligence in architecture",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17170,7 +17170,7 @@
     },
     {
       "id": "Artificial intelligence in fraud detection",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17188,7 +17188,7 @@
     },
     {
       "id": "Anticipation (artificial intelligence)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17206,7 +17206,7 @@
     },
     {
       "id": "Artificial intelligence in fiction",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17224,7 +17224,7 @@
     },
     {
       "id": "Attentional control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17242,7 +17242,7 @@
     },
     {
       "id": "AI control problem",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17260,7 +17260,7 @@
     },
     {
       "id": "AIM (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17278,7 +17278,7 @@
     },
     {
       "id": "Artificial Linguistic Internet Computer Entity",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17296,7 +17296,7 @@
     },
     {
       "id": "Artificial intimacy",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17314,7 +17314,7 @@
     },
     {
       "id": "Active protection system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17332,7 +17332,7 @@
     },
     {
       "id": "Airborne early warning and control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17350,7 +17350,7 @@
     },
     {
       "id": "American Association for the Advancement of Artificial Intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17368,7 +17368,7 @@
     },
     {
       "id": "2D computer graphics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17386,7 +17386,7 @@
     },
     {
       "id": "Algorithmic art",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17404,7 +17404,7 @@
     },
     {
       "id": "AI, Algorithmic, and Automation Incidents and Controversies",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17422,7 +17422,7 @@
     },
     {
       "id": "AI Incident Database",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17440,7 +17440,7 @@
     },
     {
       "id": "Artificial intelligence safety",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17458,7 +17458,7 @@
     },
     {
       "id": "Artificial superintelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17476,7 +17476,7 @@
     },
     {
       "id": "COMPAS (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17494,7 +17494,7 @@
     },
     {
       "id": "Civic technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17512,7 +17512,7 @@
     },
     {
       "id": "Evolutionary algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17530,7 +17530,7 @@
     },
     {
       "id": "Application of artificial intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17548,7 +17548,7 @@
     },
     {
       "id": "Artificial intelligence in pharmacy",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17566,7 +17566,7 @@
     },
     {
       "id": "Cross-industry standard process for data mining",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17584,7 +17584,7 @@
     },
     {
       "id": "Deterministic algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17602,7 +17602,7 @@
     },
     {
       "id": "Boolean data type",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17620,7 +17620,7 @@
     },
     {
       "id": "Artificial neurons",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17638,7 +17638,7 @@
     },
     {
       "id": "Computer simulation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17656,7 +17656,7 @@
     },
     {
       "id": "Neural circuit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17674,7 +17674,7 @@
     },
     {
       "id": "Parallel constraint satisfaction processes",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17692,7 +17692,7 @@
     },
     {
       "id": "Autonomic nervous system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17710,7 +17710,7 @@
     },
     {
       "id": "Central nervous system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17728,7 +17728,7 @@
     },
     {
       "id": "Brian (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17746,7 +17746,7 @@
     },
     {
       "id": "Comparison of deep learning software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17764,7 +17764,7 @@
     },
     {
       "id": "Data Mining",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17782,7 +17782,7 @@
     },
     {
       "id": "Data preprocessing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17800,7 +17800,7 @@
     },
     {
       "id": "Embedded system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17818,7 +17818,7 @@
     },
     {
       "id": "Emergent (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17836,7 +17836,7 @@
     },
     {
       "id": "GENESIS (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17854,7 +17854,7 @@
     },
     {
       "id": "NEST (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17872,7 +17872,7 @@
     },
     {
       "id": "Neural Designer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17890,7 +17890,7 @@
     },
     {
       "id": "Neuron (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17908,7 +17908,7 @@
     },
     {
       "id": "Open-source software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17926,7 +17926,7 @@
     },
     {
       "id": "Physical neural network",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17944,7 +17944,7 @@
     },
     {
       "id": "Scientific Software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17962,7 +17962,7 @@
     },
     {
       "id": "Software development",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17980,7 +17980,7 @@
     },
     {
       "id": "Comparison of anti-plagiarism software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -17998,7 +17998,7 @@
     },
     {
       "id": "Data (computing)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18016,7 +18016,7 @@
     },
     {
       "id": "Data privacy",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18034,7 +18034,7 @@
     },
     {
       "id": "Massachusetts Institute of Technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18052,7 +18052,7 @@
     },
     {
       "id": "Academy of Arts, Architecture and Design in Prague",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18070,7 +18070,7 @@
     },
     {
       "id": "Aeronautical Engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18088,7 +18088,7 @@
     },
     {
       "id": "Automatic computers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18106,7 +18106,7 @@
     },
     {
       "id": "Budapest University of Technology and Economics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18124,7 +18124,7 @@
     },
     {
       "id": "CEITEC (Central European Institute of Technology)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18142,7 +18142,7 @@
     },
     {
       "id": "Chalmers University of Technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18160,7 +18160,7 @@
     },
     {
       "id": "Control technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18178,7 +18178,7 @@
     },
     {
       "id": "Delft University of Technology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18196,7 +18196,7 @@
     },
     {
       "id": "3D SEM surface reconstruction",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18214,7 +18214,7 @@
     },
     {
       "id": "3D data acquisition and object reconstruction",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18232,7 +18232,7 @@
     },
     {
       "id": "3D sound reconstruction",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18250,7 +18250,7 @@
     },
     {
       "id": "Computer-aided diagnosis",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18268,7 +18268,7 @@
     },
     {
       "id": "Comparison of photogrammetry software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18286,7 +18286,7 @@
     },
     {
       "id": "Fundamental matrix (computer vision)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18304,7 +18304,7 @@
     },
     {
       "id": "Homography (computer vision)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18322,7 +18322,7 @@
     },
     {
       "id": "Image restoration by artificial intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18340,7 +18340,7 @@
     },
     {
       "id": "Neural radiance field",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18358,7 +18358,7 @@
     },
     {
       "id": "Computer audition",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18376,7 +18376,7 @@
     },
     {
       "id": "Computer software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18394,7 +18394,7 @@
     },
     {
       "id": "Clinical decision support system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18412,7 +18412,7 @@
     },
     {
       "id": "Explainable artificial intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18430,7 +18430,7 @@
     },
     {
       "id": "Glossary of artificial intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18448,7 +18448,7 @@
     },
     {
       "id": "Hallucination (artificial intelligence)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18466,7 +18466,7 @@
     },
     {
       "id": "Health software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18484,7 +18484,7 @@
     },
     {
       "id": "Natural language processing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18502,7 +18502,7 @@
     },
     {
       "id": "Blackboard system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18520,7 +18520,7 @@
     },
     {
       "id": "Commonsense knowledge (artificial intelligence)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18538,7 +18538,7 @@
     },
     {
       "id": "Computational intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18556,7 +18556,7 @@
     },
     {
       "id": "Constructionist design methodology",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18574,7 +18574,7 @@
     },
     {
       "id": "Algorithm selection",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18592,7 +18592,7 @@
     },
     {
       "id": "Data pre-processing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18610,7 +18610,7 @@
     },
     {
       "id": "Data preparation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18628,7 +18628,7 @@
     },
     {
       "id": "Data science",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18646,7 +18646,7 @@
     },
     {
       "id": "Big Data (band)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18664,7 +18664,7 @@
     },
     {
       "id": "Big data ethics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18682,7 +18682,7 @@
     },
     {
       "id": "Big data maturity model",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18700,7 +18700,7 @@
     },
     {
       "id": "Business intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18718,7 +18718,7 @@
     },
     {
       "id": "Cognitive big data",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18736,7 +18736,7 @@
     },
     {
       "id": "Complex systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18754,7 +18754,7 @@
     },
     {
       "id": "Algebraic data types",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18772,7 +18772,7 @@
     },
     {
       "id": "Algorithmic game theory",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18790,7 +18790,7 @@
     },
     {
       "id": "Algorithmic information theory",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18808,7 +18808,7 @@
     },
     {
       "id": "Algorithmics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18826,7 +18826,7 @@
     },
     {
       "id": "Biological data",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18844,7 +18844,7 @@
     },
     {
       "id": "Computer Automated Measurement and Control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18862,7 +18862,7 @@
     },
     {
       "id": "Data editing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18880,7 +18880,7 @@
     },
     {
       "id": "Data engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18898,7 +18898,7 @@
     },
     {
       "id": "Data erasure",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18916,7 +18916,7 @@
     },
     {
       "id": "Contextualization (computer science)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18934,7 +18934,7 @@
     },
     {
       "id": "Control chart",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18952,7 +18952,7 @@
     },
     {
       "id": "Data and information visualization",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18970,7 +18970,7 @@
     },
     {
       "id": "Computer files",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -18988,7 +18988,7 @@
     },
     {
       "id": "Data set",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19006,7 +19006,7 @@
     },
     {
       "id": "Databases",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19024,7 +19024,7 @@
     },
     {
       "id": "General Data Protection Regulation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19042,7 +19042,7 @@
     },
     {
       "id": "Masking and unmasking by intelligence agencies",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19060,7 +19060,7 @@
     },
     {
       "id": "Metadata",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19078,7 +19078,7 @@
     },
     {
       "id": "Metadata removal tool",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19096,7 +19096,7 @@
     },
     {
       "id": "Statistical disclosure control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19114,7 +19114,7 @@
     },
     {
       "id": "Computer media",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19132,7 +19132,7 @@
     },
     {
       "id": "Batch processing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19150,7 +19150,7 @@
     },
     {
       "id": "Data dictionary",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19168,7 +19168,7 @@
     },
     {
       "id": "Clinical study design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19186,7 +19186,7 @@
     },
     {
       "id": "842 (compression algorithm)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19204,7 +19204,7 @@
     },
     {
       "id": "A-law algorithm",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19222,7 +19222,7 @@
     },
     {
       "id": "Advanced Systems Format",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19240,7 +19240,7 @@
     },
     {
       "id": "Ark (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19258,7 +19258,7 @@
     },
     {
       "id": "Asymmetric numeral systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19276,7 +19276,7 @@
     },
     {
       "id": "Data ethics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19294,7 +19294,7 @@
     },
     {
       "id": "Computer data",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19312,7 +19312,7 @@
     },
     {
       "id": "Data Integrity Field",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19330,7 +19330,7 @@
     },
     {
       "id": "Data buffer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19348,7 +19348,7 @@
     },
     {
       "id": "Biological database",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19366,7 +19366,7 @@
     },
     {
       "id": "Biological databases",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19384,7 +19384,7 @@
     },
     {
       "id": "Consultative Committee for Space Data Systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19402,7 +19402,7 @@
     },
     {
       "id": "DataNet",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19420,7 +19420,7 @@
     },
     {
       "id": "DataONE",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19438,7 +19438,7 @@
     },
     {
       "id": "Data re-identification",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19456,7 +19456,7 @@
     },
     {
       "id": "Access-control list",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19474,7 +19474,7 @@
     },
     {
       "id": "Advanced Disc Filing System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19492,7 +19492,7 @@
     },
     {
       "id": "Amiga Fast File System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19510,7 +19510,7 @@
     },
     {
       "id": "Amiga Old File System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19528,7 +19528,7 @@
     },
     {
       "id": "Andrew File System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19546,7 +19546,7 @@
     },
     {
       "id": "Apple File System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19564,7 +19564,7 @@
     },
     {
       "id": "AtheOS File System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19582,7 +19582,7 @@
     },
     {
       "id": "Be File System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19600,7 +19600,7 @@
     },
     {
       "id": "Boot File System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19618,7 +19618,7 @@
     },
     {
       "id": "Capacity optimization",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19636,7 +19636,7 @@
     },
     {
       "id": "Ceph (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19654,7 +19654,7 @@
     },
     {
       "id": "Clustered file system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19672,7 +19672,7 @@
     },
     {
       "id": "Coda (file system)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19690,7 +19690,7 @@
     },
     {
       "id": "Compact Disc File System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19708,7 +19708,7 @@
     },
     {
       "id": "Comparison of distributed file systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19726,7 +19726,7 @@
     },
     {
       "id": "Comparison of file systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19744,7 +19744,7 @@
     },
     {
       "id": "Computer access control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19762,7 +19762,7 @@
     },
     {
       "id": "Data differencing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19780,7 +19780,7 @@
     },
     {
       "id": "Data auditing",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19798,7 +19798,7 @@
     },
     {
       "id": "Advanced Design System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19816,7 +19816,7 @@
     },
     {
       "id": "Altium Designer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19834,7 +19834,7 @@
     },
     {
       "id": "Analog circuit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19852,7 +19852,7 @@
     },
     {
       "id": "CadSoft Computer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19870,7 +19870,7 @@
     },
     {
       "id": "Cadence Design Systems",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19888,7 +19888,7 @@
     },
     {
       "id": "CircuitLogix",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19906,7 +19906,7 @@
     },
     {
       "id": "CircuitMaker",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19924,7 +19924,7 @@
     },
     {
       "id": "DesignSpark PCB",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19942,7 +19942,7 @@
     },
     {
       "id": "Design rule checking",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19960,7 +19960,7 @@
     },
     {
       "id": "Eagle (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19978,7 +19978,7 @@
     },
     {
       "id": "Electric (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -19996,7 +19996,7 @@
     },
     {
       "id": "Electronic circuit simulation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20014,7 +20014,7 @@
     },
     {
       "id": "Free and open-source software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20032,7 +20032,7 @@
     },
     {
       "id": "Computer simulation and organizational studies",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20050,7 +20050,7 @@
     },
     {
       "id": "EM simulation software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20068,7 +20068,7 @@
     },
     {
       "id": "Meep (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20086,7 +20086,7 @@
     },
     {
       "id": "Abalone (molecular mechanics)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20104,7 +20104,7 @@
     },
     {
       "id": "Ascalaph Designer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20122,7 +20122,7 @@
     },
     {
       "id": "Global optimization",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20140,7 +20140,7 @@
     },
     {
       "id": "Molecular design software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20158,7 +20158,7 @@
     },
     {
       "id": "Molecular mechanics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20176,7 +20176,7 @@
     },
     {
       "id": "AIMMS Outer Approximation (optimization software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20194,7 +20194,7 @@
     },
     {
       "id": "Gekko (optimization software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20212,7 +20212,7 @@
     },
     {
       "id": "General Algebraic Modeling System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20230,7 +20230,7 @@
     },
     {
       "id": "HiGHS optimization solver",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20248,7 +20248,7 @@
     },
     {
       "id": "MINOS (optimization software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20266,7 +20266,7 @@
     },
     {
       "id": "Mathematical optimization",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20284,7 +20284,7 @@
     },
     {
       "id": "Avogadro (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20302,7 +20302,7 @@
     },
     {
       "id": "BOSS (molecular mechanics)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20320,7 +20320,7 @@
     },
     {
       "id": "Commercial software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20338,7 +20338,7 @@
     },
     {
       "id": "Desmond (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20356,7 +20356,7 @@
     },
     {
       "id": "Analytica (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20374,7 +20374,7 @@
     },
     {
       "id": "Maple (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20392,7 +20392,7 @@
     },
     {
       "id": "Proprietary software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20410,7 +20410,7 @@
     },
     {
       "id": "Simantics System Dynamics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20428,7 +20428,7 @@
     },
     {
       "id": "Software license",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20446,7 +20446,7 @@
     },
     {
       "id": "System dynamics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20464,7 +20464,7 @@
     },
     {
       "id": "Wolfram SystemModeler",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20482,7 +20482,7 @@
     },
     {
       "id": "Computational materials science",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20500,7 +20500,7 @@
     },
     {
       "id": "Electronic structure",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20518,7 +20518,7 @@
     },
     {
       "id": "Materials Genome",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20536,7 +20536,7 @@
     },
     {
       "id": "Materials Science",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20554,7 +20554,7 @@
     },
     {
       "id": "Materials informatics",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20572,7 +20572,7 @@
     },
     {
       "id": "Materials science",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20590,7 +20590,7 @@
     },
     {
       "id": "3D Manufacturing Format",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20608,7 +20608,7 @@
     },
     {
       "id": "Aber (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20626,7 +20626,7 @@
     },
     {
       "id": "Additive Manufacturing File Format",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20644,7 +20644,7 @@
     },
     {
       "id": "Additive manufacturing file format",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20662,7 +20662,7 @@
     },
     {
       "id": "Alibre Design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20680,7 +20680,7 @@
     },
     {
       "id": "Domain-driven design",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20698,7 +20698,7 @@
     },
     {
       "id": "Dynamic systems development method",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20716,7 +20716,7 @@
     },
     {
       "id": "Glossary of computer science",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20734,7 +20734,7 @@
     },
     {
       "id": "Glossary of electrical and electronics engineering",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20752,7 +20752,7 @@
     },
     {
       "id": "Infrastructure as code",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20770,7 +20770,7 @@
     },
     {
       "id": "International Requirements Engineering Board",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20788,7 +20788,7 @@
     },
     {
       "id": "Lean software development",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20806,7 +20806,7 @@
     },
     {
       "id": "Outline of software development",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20824,7 +20824,7 @@
     },
     {
       "id": "BMC Software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20842,7 +20842,7 @@
     },
     {
       "id": "OpenMake Software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20860,7 +20860,7 @@
     },
     {
       "id": "Artificial Intelligence System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20878,7 +20878,7 @@
     },
     {
       "id": "Cat intelligence",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20896,7 +20896,7 @@
     },
     {
       "id": "Arithmetic circuit complexity",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20914,7 +20914,7 @@
     },
     {
       "id": "Boolean circuit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20932,7 +20932,7 @@
     },
     {
       "id": "Boolean circuits",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20950,7 +20950,7 @@
     },
     {
       "id": "Circuit complexity",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20968,7 +20968,7 @@
     },
     {
       "id": "Circuits over sets of natural numbers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -20986,7 +20986,7 @@
     },
     {
       "id": "Integer circuit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21004,7 +21004,7 @@
     },
     {
       "id": "Logic circuits",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21022,7 +21022,7 @@
     },
     {
       "id": "Quantum circuit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21040,7 +21040,7 @@
     },
     {
       "id": "Telecommunication circuit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21058,7 +21058,7 @@
     },
     {
       "id": "Theoretical computer science",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21076,7 +21076,7 @@
     },
     {
       "id": "ACE (computer)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21094,7 +21094,7 @@
     },
     {
       "id": "AN/FSQ-8 Combat Control Central",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21112,7 +21112,7 @@
     },
     {
       "id": "Colossus supercomputer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21130,7 +21130,7 @@
     },
     {
       "id": "Computer cluster",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21148,7 +21148,7 @@
     },
     {
       "id": "Cyclone (computer)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21166,7 +21166,7 @@
     },
     {
       "id": "Cable protection system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21184,7 +21184,7 @@
     },
     {
       "id": "Circuit switching",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21202,7 +21202,7 @@
     },
     {
       "id": "Command and Control (Military)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21220,7 +21220,7 @@
     },
     {
       "id": "Computer Keyboard",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21238,7 +21238,7 @@
     },
     {
       "id": "Computer mouse",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21256,7 +21256,7 @@
     },
     {
       "id": "A2 (operating system)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21274,7 +21274,7 @@
     },
     {
       "id": "A Symbolic Analysis of Relay and Switching Circuits",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21292,7 +21292,7 @@
     },
     {
       "id": "Amoeba (operating system)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21310,7 +21310,7 @@
     },
     {
       "id": "Antivirus software",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21328,7 +21328,7 @@
     },
     {
       "id": "Apache Software Foundation",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21346,7 +21346,7 @@
     },
     {
       "id": "Aperture (computer memory)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21364,7 +21364,7 @@
     },
     {
       "id": "Areal density (computer storage)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21382,7 +21382,7 @@
     },
     {
       "id": "Binary numeral system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21400,7 +21400,7 @@
     },
     {
       "id": "Block (data storage)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21418,7 +21418,7 @@
     },
     {
       "id": "Asynchronous circuit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21436,7 +21436,7 @@
     },
     {
       "id": "Central Processing Unit",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21454,7 +21454,7 @@
     },
     {
       "id": "Circuit minimization for Boolean functions",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21472,7 +21472,7 @@
     },
     {
       "id": "Cluster computer",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21490,7 +21490,7 @@
     },
     {
       "id": "BBN Time-Sharing System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21508,7 +21508,7 @@
     },
     {
       "id": "A-0 System",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21526,7 +21526,7 @@
     },
     {
       "id": "Argument (computer science)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21544,7 +21544,7 @@
     },
     {
       "id": "Bottleneck (software)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21562,7 +21562,7 @@
     },
     {
       "id": "Closed-loop controller",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21580,7 +21580,7 @@
     },
     {
       "id": "Compact controller",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21598,7 +21598,7 @@
     },
     {
       "id": "Control loop",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21616,7 +21616,7 @@
     },
     {
       "id": "Control signal",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21634,7 +21634,7 @@
     },
     {
       "id": "Control system (disambiguation)",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21652,7 +21652,7 @@
     },
     {
       "id": "Droop speed control",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21670,7 +21670,7 @@
     },
     {
       "id": "Dynamical system",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21688,7 +21688,7 @@
     },
     {
       "id": "Education and training of electrical and electronics engineers",
-      "depth": 0,
+      "depth": 2,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21706,7 +21706,7 @@
     },
     {
       "id": "Engineering education",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21724,7 +21724,7 @@
     },
     {
       "id": "International Federation of Engineering Education Societies",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21742,7 +21742,7 @@
     },
     {
       "id": "Journal of Engineering Education",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21760,7 +21760,7 @@
     },
     {
       "id": "Profiles of Engineering and Technology Colleges",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21778,7 +21778,7 @@
     },
     {
       "id": "Sharon Keillor Award for Women in Engineering Education",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21796,7 +21796,7 @@
     },
     {
       "id": "Building engineer",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21814,7 +21814,7 @@
     },
     {
       "id": "Chartered Institute of Plumbing and Heating Engineering",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21832,7 +21832,7 @@
     },
     {
       "id": "Chartered Institution of Civil Engineering Surveyors",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21850,7 +21850,7 @@
     },
     {
       "id": "Civil Engineering Contractors Association",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21868,7 +21868,7 @@
     },
     {
       "id": "Civil engineer",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21886,7 +21886,7 @@
     },
     {
       "id": "Construction",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21904,7 +21904,7 @@
     },
     {
       "id": "Construction History Society",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21922,7 +21922,7 @@
     },
     {
       "id": "Construction Specifications Institute",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21940,7 +21940,7 @@
     },
     {
       "id": "Construction bidding",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21958,7 +21958,7 @@
     },
     {
       "id": "Construction delay",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21976,7 +21976,7 @@
     },
     {
       "id": "Construction equipment theft",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -21994,7 +21994,7 @@
     },
     {
       "id": "Construction foreman",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22012,7 +22012,7 @@
     },
     {
       "id": "Construction industry in the United States",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22030,7 +22030,7 @@
     },
     {
       "id": "American Council of Engineering Companies",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22048,7 +22048,7 @@
     },
     {
       "id": "American Society for Engineering Management",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22066,7 +22066,7 @@
     },
     {
       "id": "Applied engineering (field)",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22084,7 +22084,7 @@
     },
     {
       "id": "Certified Software Development Professional",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22102,7 +22102,7 @@
     },
     {
       "id": "Computer-Aided Design Technical Committee",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22120,7 +22120,7 @@
     },
     {
       "id": "Electronics engineering",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22138,7 +22138,7 @@
     },
     {
       "id": "Engineering and Technology History Wiki",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22156,7 +22156,7 @@
     },
     {
       "id": "Engineering for Change",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22174,7 +22174,7 @@
     },
     {
       "id": "IEEE Aerospace and Electronic Systems Society",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22192,7 +22192,7 @@
     },
     {
       "id": "IEEE Broadcast Technology Society",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22210,7 +22210,7 @@
     },
     {
       "id": "IEEE Circuits and Systems Society",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22228,7 +22228,7 @@
     },
     {
       "id": "IEEE Components, Packaging & Manufacturing Technology Society",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22246,7 +22246,7 @@
     },
     {
       "id": "IEEE Computational Intelligence Society",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22264,7 +22264,7 @@
     },
     {
       "id": "IEEE Computer Society",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22282,7 +22282,7 @@
     },
     {
       "id": "IEEE Control Systems Society",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22300,7 +22300,7 @@
     },
     {
       "id": "IEEE Council on Electronic Design Automation",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22318,7 +22318,7 @@
     },
     {
       "id": "IEEE Engineering in Medicine and Biology Society",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22336,7 +22336,7 @@
     },
     {
       "id": "IEEE Intelligent Transportation Systems Society",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22354,7 +22354,7 @@
     },
     {
       "id": "Engineering economics",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22372,7 +22372,7 @@
     },
     {
       "id": "Engineering management",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22390,7 +22390,7 @@
     },
     {
       "id": "Enterprise engineering",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22408,7 +22408,7 @@
     },
     {
       "id": "Geographic coordinate system",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22426,7 +22426,7 @@
     },
     {
       "id": "Maintenance engineering",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22444,7 +22444,7 @@
     },
     {
       "id": "Operations engineering",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22462,7 +22462,7 @@
     },
     {
       "id": "Production engineering",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22480,7 +22480,7 @@
     },
     {
       "id": "Quality engineering",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",
@@ -22498,7 +22498,7 @@
     },
     {
       "id": "Safety engineering",
-      "depth": 0,
+      "depth": 3,
       "summary": "",
       "short_summary": "",
       "url": "",

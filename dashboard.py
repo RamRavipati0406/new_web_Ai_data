@@ -100,8 +100,8 @@ def create_pyvis_network(G, node_filter=None, max_nodes=100):
         else:
             color = "#d208fa"  # Purple for deeper levels
         
-        # Tooltip
-        title = f"{node}<br>Connections: {degree}<br>PageRank: {pagerank:.4f}"
+        # Tooltip with depth info
+        title = f"{node}<br>Depth: {depth}<br>Connections: {degree}<br>PageRank: {pagerank:.4f}"
         
         net.add_node(node, label=node, size=size, color=color, title=title)
     
@@ -128,7 +128,17 @@ def plot_top_topics_bar(G, metric='in_degree', top_n=15):
         data = {n: G.nodes[n].get('pagerank', 0) for n in G.nodes()}
         title = f"Top {top_n} Topics by PageRank Score"
         x_label = "PageRank Score"
+    elif metric == 'betweenness':
+        data = {n: G.nodes[n].get('betweenness', 0) for n in G.nodes()}
+        title = f"Top {top_n} Topics by Betweenness Centrality"
+        x_label = "Betweenness Score"
+    elif metric == 'degree':
+        # Total degree (in + out)
+        data = dict(G.degree())
+        title = f"Top {top_n} Most Connected Topics (Total Degree)"
+        x_label = "Total Connections"
     else:
+        # Fallback to total degree
         data = dict(G.degree())
         title = f"Top {top_n} Most Connected Topics"
         x_label = "Total Connections"
