@@ -49,29 +49,36 @@ for node in G.nodes():
 for d in sorted(old_depths.keys()):
     print(f"  Depth {d}: {old_depths[d]} nodes")
 
-# Correct depths using BFS from seed topics
-print("\nRecalculating depths using BFS from seed topics...")
+# Correct depths using shortest path distance from any seed topic
+# This gives us: depth 0 = seeds, depth 1 = directly connected to seeds, etc.
+print("\nRecalculating depths using shortest path distance from seed topics...")
 new_depth = {}
-visited = set()
-queue = deque()
+seed_nodes = [t for t in SEED_TOPICS if t in G.nodes()]
 
-# Initialize seed topics at depth 0
-for topic in SEED_TOPICS:
-    if topic in G.nodes():
-        new_depth[topic] = 0
-        visited.add(topic)
-        queue.append((topic, 0))
-
-# BFS to assign depths
-while queue:
-    current, current_depth = queue.popleft()
+# For each node, calculate shortest distance to any seed topic
+for node in G.nodes():
+    min_distance = float('inf')
     
-    # Add successors (outgoing edges = links this page points to)
-    for successor in G.successors(current):
-        if successor not in visited:
-            new_depth[successor] = current_depth + 1
-            visited.add(successor)
-            queue.append((successor, current_depth + 1))
+    for seed in seed_nodes:
+        try:
+            # Try shortest path from seed to node (following edges)
+            distance = nx.shortest_path_length(G, seed, node)
+            min_distance = min(min_distance, distance)
+        except (nx.NetworkXNoPath, nx.NodeNotFound):
+            # Try reverse direction (from node to seed)
+            try:
+                distance = nx.shortest_path_length(G, node, seed)
+                min_distance = min(min_distance, distance)
+            except (nx.NetworkXNoPath, nx.NodeNotFound):
+                pass
+    
+    # Assign depth, cap at 2 for visualization
+    if node in seed_nodes:
+        new_depth[node] = 0
+    elif min_distance == float('inf'):
+        new_depth[node] = 3  # Orphan nodes
+    else:
+        new_depth[node] = min(min_distance, 2)
 
 # Apply corrected depths to graph
 for node in G.nodes():
