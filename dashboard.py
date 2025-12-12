@@ -228,7 +228,7 @@ def render_scrollable_topics(topic_list, height='350px', cols=1):
     for topic in topic_list:
         html.append(
             f'<div style="{item_style} padding:8px; margin:6px; border-radius:6px; '
-            'background:#fbfbfb; box-shadow: 0 1px 0 rgba(0,0,0,0.03);">'
+            'background:#fbfbfb; box-shadow: 0 1px 0 rgba(0,0,0,0.03); color:#262730;">'
             f'{topic}</div>'
         )
 
@@ -476,7 +476,7 @@ def show_topic_explorer(G):
                 col3, col4 = st.columns(2)
                 
                 with col3:
-                    st.subheader("🔗 Topics that link HERE")
+                    st.subheader("🔗 Topics that link into this")
                     predecessors = list(G.predecessors(selected_topic))
                     if predecessors:
                         for pred in predecessors[:10]:
@@ -487,7 +487,7 @@ def show_topic_explorer(G):
                         st.write("No incoming links")
                 
                 with col4:
-                    st.subheader("🔗 Topics this links TO")
+                    st.subheader("🔗 Topics this links Out to")
                     successors = list(G.successors(selected_topic))
                     if successors:
                         for succ in successors[:10]:
